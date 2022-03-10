@@ -29,5 +29,10 @@ pip install -r requirements.txt
 python test.py
 ```
 
-### Web Scrapper Package (Please go through!!!)
-https://github.com/spinlud/py-linkedin-jobs-scraper
+## Development
+
+### Phase 1: 
+~~1. Web Scraper~~
+2. Data input into MongoDB
+3. Schedular script
+4. Database Schema
