@@ -36,4 +36,4 @@ python test.py
 2. Data input into MongoDB.
 3. Creating master tables from staging data.
 4. Schedular script.
-5. Database Schema.s
+5. Database Schemass
