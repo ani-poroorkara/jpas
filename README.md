@@ -33,6 +33,7 @@ python test.py
 
 ### Phase 1: 
 ~~1. Web Scraper~~
-2. Data input into MongoDB
-3. Schedular script
-4. Database Schema
+2. Data input into MongoDB.
+3. Creating master tables from staging data.
+4. Schedular script.
+5. Database Schema.s
