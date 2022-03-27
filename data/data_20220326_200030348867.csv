@@ -1,0 +1,880 @@
+job_id,title,company,location,date,link,description,employment_type,seniority_level,place,job_function
+2927598248,"Software Developer, Early Career",Google,Canada,2022-03-17,https://ca.linkedin.com/jobs/view/software-developer-early-career-at-google-2927598248?refId=q%2FTb%2Fexmnzyzbu5ranSyCQ%3D%3D&trackingId=643qNI5Rivi09wL0HUJEJw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card,"This program is intended for candidates with 1-3 years of industry experience.
+
+Minimum qualifications:
+
+Bachelor's degree or equivalent practical experience
+1 year of experience in software development
+Experience programming with two or more of the following languages: C, C++, C#, Java, JavaScript, Go, and/or Python
+Experience working one or more of the following: web or mobile application development, Unix/Linux environments, distributed and parallel systems, machine learning, information retrieval, natural language processing, networking, software systems, and/or security software development
+
+
+Preferred qualifications:
+
+Experience developing accessible technologies
+Interest and ability to learn coding languages as needed
+Ability to speak and write in English fluently
+Ability to start in 2022
+
+
+About The Job
+
+Google's software developers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for software developers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day.
+
+As a software developer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our software developers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+Google aspires to be an organization that reflects the globally diverse audience that our products and technology serve. We believe that in addition to hiring the best talent, a diversity of perspectives, ideas, and cultures leads to the creation of better products and services.
+
+By applying to this position, you will be considered for all potential Software Developer opportunities. Roles may vary by location and will be discussed in more detail with your recruiter after completion of onsite interviews.
+
+Google is a software development company at heart. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on users around the world. At Google, software developers not only revolutionize search, they routinely work on scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, social to local, Google software developers are changing the world one technological achievement after another.
+
+Responsibilities
+
+
+Design, develop, test, deploy, maintain, and improve software.
+Manage individual project priorities, deadlines, and deliverables.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+Show more Show less",Full-time,Entry level,"Waterloo, Ontario, Canada",Information Technology and Engineering
+2861990890,Software Engineer - New Grad - Canada,Twilio,Canada,2022-03-05,https://ca.linkedin.com/jobs/view/software-engineer-new-grad-canada-at-twilio-2861990890?refId=q%2FTb%2Fexmnzyzbu5ranSyCQ%3D%3D&trackingId=Tlau0dLEOA6Zh0WpbyDP4w%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card,"Because you belong at Twilio.
+
+The Who, What, Why And Where
+
+At Twilio, our mission is to power the future of communications. We are looking for Software Engineers (SWE) who want to design, develop, deploy and operate software solutions and help Twilio deliver real-time, low latency capabilities for next-generation communications. Twilio New Grad Software Engineers are eager to learn and inspire and like to think at scale and meet high availability goals, bringing a focus to solving resiliency, latency and quality challenges in our virtualized cloud environment. SWE’s want to develop technical skills and industry experience while working on complex distributed systems.
+
+You Should Have Some Or All Of The Following
+
+Pursuing a Bachelors, Masters or Phd degree in Computer Science or Computer Engineering, or equivalent experience
+Proficient background in networking, operating systems, and security
+0-3+ Years of engineering experience with Python, PHP, C, C++ or Java
+Knowledge of unit and integration testing methodologies, and the ability to write, debug and deploy testing frameworks
+Experience with traditional RDBMS databases, such as MySQL, Postgres, Oracle, etc.
+
+Who?
+
+Ideal Candidates
+
+Twilio is looking for Engineers who live the Twilio Magic and have a demonstrated track record of learning, growth, impact, and success.
+
+Are working towards a BS, MS, or PhD degree in computer science, computer engineering or a related field.
+Have a keen interest in software development with several side projects and perhaps are a part of the open source community.
+Have a hungry entrepreneurial and ""can do"" spirit, as evidenced by successful interest in learning new technologies.
+Have experience in data processing, analytics, business intelligence, and reporting
+Have experience with technologies such as hadoop, spark, python, scala etc.
+
+What?
+
+As a Software Engineer, you will live the Twilio Magic values:
+
+BE INCLUSIVE: Work in a small, high-impact, diverse team
+EMPOWER OTHERS: Bring in your expertise and experience to empower the your team and make things better in all aspects
+DRAW THE OWL: Collaborate with the team to tackle complex problems in distributed computing
+BE AN OWNER: Build and operate your team's services in a production environment leveraging a DevOps model; Ensure quality by writing unit, integration, and load tests.
+DON’T SETTLE, RUTHLESSLY PRIORITIZE: Constantly look for areas of improvement in processes, system and optimize. Be an advocate for balancing tech debt and feature development
+Design and implement various initiatives, scalable infrastructure solutions that meet Twilio’s high scalability & performance needs
+Perform detailed and thoughtful peer code reviews
+Help building Continuous Integration and Continuous Delivery on managed AWS services
+Develop monitoring & alerting solutions that keeps our system’s health in check
+Internalize the set of good habits (development techniques, test driven development, load and performance testing, security, tech debt balance, Agile discipline etc.) that drives high-end engineering excellence
+
+Why?
+
+Twilio is a company that is empowering the world’s developers with modern communication in order to build better applications.
+
+Twilio is truly unique; we are a company committed to your growth, your learning, your development and your entire employee experience. We only win when our employees succeed and we're dedicated to helping you develop your strengths. We invest in weeks dedicated to tackling hard problems and creating your own ideas. We have a cultural foundation built on diversity, inclusion and innovation and we want you and your ideas to thrive at Twilio. Come join us.
+
+Where?
+
+This role is located in the BC, Ontario office. We employ diverse talent from all over the world and we believe great work can be done anywhere. Around the world, Twilio offers benefits and perks to support the physical, financial, and emotional well being of you and your loved ones. No matter where you are based, you will experience a company that believes in small teams for maximum impact; seeks well-rounded talent to ensure a full perspective on our customers’ experience, understands that this is a marathon, not a sprint; that continuously and purposefully builds an inclusive culture that empowers everyone to do their best work and be the best version of themselves.
+
+About Us
+
+Millions of developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, video and email by virtualizing the world’s communications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer’s toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.
+
+In accordance with applicable law, the following represents Twilio's reasonable estimate of the range of possible compensation for this role if hired in Colorado.
+
+Salary
+
+BC, Ontario: $97 500 /annually
+
+Benefits
+
+At the time of this posting, this role is eligible to participate in the following benefits, which Twilio reserves the right to modify at any time for any reason in accordance with applicable law
+
+Twilio is committed to delivering a comprehensive benefits program that provides support needed for you and your loved ones. It’s likely that you don’t think about benefits every day; however, they are an important component of your total compensation, and we want you to understand the options available to you so that you can make the most of your benefit dollars.
+
+Healthcare Insurance
+
+Prescription Drug
+Medical
+Dental
+Vision
+
+Reimbursement Programs & Stipends
+
+Up to $140 per month for connectivity allowance
+Up to $100 per month for remote work
+Up to $205 per month for wellbeing and books
+Show more Show less",Full-time,Not Applicable,"Vancouver, British Columbia, Canada",Engineering and Information Technology
+2945729862,"Software Developer, Early Career, Campus",Google,Canada,2022-03-07,https://ca.linkedin.com/jobs/view/software-developer-early-career-campus-at-google-2945729862?refId=q%2FTb%2Fexmnzyzbu5ranSyCQ%3D%3D&trackingId=KWCb2VrhjS7%2BRXnzmP8X1w%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card,"Application Instructions:
+
+Please complete your application before March 25, 2022.
+
+Note: This application is intended for candidates that are eligible for full-time work authorization in Canada upon completing their education.
+
+You can also consider applying for our international opportunities. Please check the Student Careers page for current openings in the location where you are eligible for full-time authorization.
+
+This program is intended for candidates with 1 year or less of industry experience. If you have more than one year of industry experience, please apply directly to our industry openings titled ""Software Engineer, Early Career - United States"" or ""Software Developer, Early Career - Canada"". If you have less than 1 year of industry experience, please apply here.
+
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Waterloo, ON, Canada; Montreal, QC, Canada.
+
+Minimum qualifications:
+
+Bachelor's degree in Computer Science, Electrical Engineering, related technical field or equivalent practical experience.
+Experience working with Data Structures or Algorithms (e.g., data structures/algorithms class, coursework/projects, research, internships, or other practical experience in/outside of school or work (including open source hobby coding).
+Software development experience coding in a general purpose programming language.
+Examples of coding in one of the following programming languages including but not limited to: C, C++, Java, JavaScript, or Python.
+
+
+Preferred qualifications:
+
+Ability to start in 2022.
+Experience programming with two or more of the following languages: C, C++, C#, Java, JavaScript, Go, and/or Python.
+Experience working one or more of the following: web or mobile application development, Unix/Linux environments, distributed and parallel systems, machine learning, information retrieval, natural language processing, networking, developing large software systems, and/or security software development.
+Working proficiency in verbal and written English.
+Interest and ability to learn other coding languages as needed.
+
+
+About The Job
+
+Google's software developers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for software developers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software developer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our software developers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+As a key member of a small and versatile team, you design, test, deploy and maintain software solutions.
+
+Whether it's finding new and innovative ways to advance search quality, building computing platform and networking technologies, automating the indexing of videos, or continuing to refine and scale complex auction systems (just to name a few), you will be developing solutions to some of the most challenging technical problems out there. You will research, conceive, and develop software applications to extend and improve on Google's product offerings and collaborate on scalability issues involving access to massive amounts of data and information. Examples of specialist domains: UI development with AJAX and similar technologies, security, embedded systems and mobile apps (Android and iOS), developer tools (IDEs, large-scale build systems, compilers).
+
+Google is a software development company at heart. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on users around the world. At Google, software developers not only revolutionize search, they routinely work on scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, social to local, Google software developers are changing the world one technological achievement after another.
+
+Responsibilities
+
+
+Responsibilities vary based on area/role, and in general may include:
+Design, develop, test, deploy, maintain, and improve software.
+Manage project priorities, deadlines, and deliverables.
+Take on tasks as requested, following through to completion despite roadblocks or distractions.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+Show more Show less",Full-time,Entry level,"Waterloo, Ontario, Canada",Information Technology and Engineering
+2972996851,University Grad Software Engineer (Canada),Pinterest,Canada,2022-03-21,https://ca.linkedin.com/jobs/view/university-grad-software-engineer-canada-at-pinterest-2972996851?refId=q%2FTb%2Fexmnzyzbu5ranSyCQ%3D%3D&trackingId=9D1dZ0qbUr6K1epa%2FiYhvg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card,"1945782
+
+About Pinterest
+
+Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+
+PLEASE ONLY APPLY FOR THIS POSITION ONCE - USA or Canada. Location preferences are specified within the job title. Multiple applications may delay our recruitment process.
+
+As a university grad at Pinterest, you’ll take the lead in both solving scoped problems and contributing to projects while learning and growing within your team. This role is as much about learning as it is about doing and making an impact. We’re looking for passionate university grads that are excited to build awesome products and features, create visually rich experiences, spearhead the discovery problem, and pinpointing tomorrow’s engineering challenge as we maneuver through exponential growth and massive scale.
+
+What You’ll Do
+
+Deliver code that is well-documented, tested, and operable
+Independently take ownership over the completion and quality of your tasks and project
+Execute scoped technical tasks end-to-end in collaboration with cross-functional Pinployees to help build the future of Pinterest
+Effectively and proactively communicate new ideas and opinions with candor as you grow both professionally and personally through learning and development opportunities
+
+What We're Looking For
+
+Completing a degree in Computer Science or related technical field
+Experience in previous software engineering internships
+Proficiency in a dynamic programming language such as Python
+Strong communication skills and product sense
+Passion for Pinterest and the ability to manage ambiguity and continually learn from your experiences
+
+Our Commitment To Diversity
+
+At Pinterest, our mission is to bring everyone the inspiration to create a life they love—and that includes our employees. We’re taking on the most exciting challenges of our working lives, and we succeed with a team that represents an inclusive and diverse set of identities and backgrounds.
+
+
+Show more Show less",Full-time,Mid-Senior level,"Toronto, Ontario, Canada",Other
+2978270099,"Software Engineer, Pay Equity – Summer Intern 2022",KPMG Canada,Canada,2022-03-22,https://ca.linkedin.com/jobs/view/software-engineer-pay-equity-%E2%80%93-summer-intern-2022-at-kpmg-canada-2978270099?refId=q%2FTb%2Fexmnzyzbu5ranSyCQ%3D%3D&trackingId=W3hhx8diphHx0PU0PJtGPw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card,"Overview
+
+Please note that you are limited to one application during the recruitment period as we ask you to think ahead of what office and service line you are most interested in.
+
+At KPMG in Canada, we believe our differences make us stronger. When you join the team, you'll be part of a diverse group of professionals with a common goal - making an impact and driving innovation.
+
+In a culture that fosters inclusion and encourages flexibility, you’ll receive the tools and guidance to grow your skills and achieve success your way.
+
+Come as you are. Lets do this.
+
+Opportunity
+
+Pay equity legislation at the federal and provincial levels is written with the goal of ensuring equitable pay, identifying and addressing any gaps that may exist within organizations. KPMG’s Pay Equity practice combines our world-class advisory services on tax and legal matters with our technology-centered approach to problem-solving. At the core of our Pay Equity service offering is a suite of cloud-based technology tools that allow clients to interface directly with their pay equity analysis from start to finish.
+
+The KPMG Pay Equity team has an exciting opportunity for a Software Engineer, Summer Intern to join our team! This role will be a rewarding experience for you if you
+
+Thrive on challenges and work best in a fast-paced environment where each day is different
+Work well in a project team environment and have strong collaboration and interpersonal skills
+Have a permanent “figure it out” mindset
+
+This opportunity is fully-remote and open to candidates located anywhere across Canada.
+
+Please note that you must be living in Canada for the entirety of the term to be eligible fo the role.
+
+What You Will Do
+
+Design and build innovative solutions based on the requirement gathering and system analysis.
+Work in teams or individuals design, development and technical specifications.
+Collaborate with Solution Specialists and Engineers in drafting the functional specifications required during the software development life cycle
+Provide recommendations on how software can enhance user experience
+Architect, code and debug problematic code
+Provide expertise in cloud/on-prem/hybrid hosting solutions and full stack development
+Participate in the research and evaluation of new tools and technologies that can help drive innovative solutions for our clients
+
+What You Bring To The Role
+
+Familiar with different architecture patterns of development
+Demonstrated development experience in C++, Python, JavaScript, Java, SQL, NoSQL, Golang (Go)
+Proficiency building web applications using one or more JavaScript and CSS frameworks like AngularJS, React, Vue.JS, and Bootstrap
+Experienced with at least one back-end technology such as like Python, Node.JS, and Java
+Proficient in using and designing REST APIs
+Ability to develop a variety of user-oriented applications to deliver content in intuitive and innovative ways, through desktop, mobile apps and web interfaces
+Familiarity with programming methodologies such as version control (i.e. Git), testing, QA, Waterfall and Agile development methodologies
+
+Keys to your success
+
+Hungry for experience, and eager to learn in a rapidly changing industry
+A curiosity that looks to redefine the norm and sees technology and innovation as a tool to open new doors and new opportunities
+Passionate and capable of delivering solutions with a high attention to detail
+Self-learner and adaptability to different technologies and programming languages
+An attitude of resourcefulness that inspires creativity
+
+To apply
+
+Please apply directly to KPMG at kpmg.ca/careers
+
+Applications close on April 10th 2022 at 11 59 PM EST.
+
+Please expect a response 4-6 weeks after the application deadline.
+
+Our online application system will allow you to include up to five documents without losing your formatting. Applications can be addressed to Hiring Manager and must include a resume and an electronic copy of your most recent transcript (cover letter optional but strongly encouraged). If you do not have access to an electronic copy of your transcript, we ask that you attach a screenshot of your grades from your school’s website. In the application questionnaire, you’ll be able to indicate your preference for position type and office location. For an easy application process, please PDF all documents into one PDF file.
+
+If you experience any difficulties, please contact ca-fmadvisoryrecruitment@kpmg.ca.
+
+Our Values, The KPMG Way
+
+Integrity, we do what is right | Excellence, we never stop learning and improving | Courage, we think and act boldly | Together, we respect each other and draw strength from our differences | For Better, we do what matters
+
+KPMG is committed to the health and safety of our people, clients and communities. With this commitment in mind, KPMG complies with all public health mandates (provincially and/or federally, as applicable) and has implemented various safety measures, including a COVID-19 Vaccination Policy. KPMG's COVID 19 Vaccination Policy requires all employees to be fully vaccinated if they wish to or are required to attend a KPMG office and/or other congregate settings in the course of their duties (such as client sites or third-party venues).
+
+As this role requires occasional or consistent attendance at a KPMG office and/or congregate setting, the successful candidate must be fully vaccinated (i.e. have received all doses that are recommended by Health Canada, including any boosters) and must provide KPMG with proof of vaccination. KPMG will provide reasonable accommodation if the successful candidate cannot be vaccinated due to grounds protected by human rights legislation in their province of employment.
+
+KPMG in Canada is a proud equal opportunities employer and we are committed to creating a respectful, inclusive and barrier-free workplace that allows all of our people to reach their full potential. A diverse workforce is key to our success and we believe in bringing your whole self to work. We welcome all qualified candidates to apply and hope you will choose KPMG in Canada as your employer of choice.
+
+For general recruitment-related inquiries, please contact the HR Delivery Centre at cafmcdnhrsthotline@kpmg.ca.
+
+If you have a question about accessible employment at KPMG, or to begin a confidential conversation about your individual accessibility or accommodation needs through the recruitment process, we encourage you to contact us at cafmcdnhrsthotline@kpmg.ca or phone 416-777-8002 or toll free 1-888-466-4778.
+Show more Show less",Full-time,Not Applicable,"Toronto, Ontario, Canada",Engineering and Information Technology
+2987168846,Data Engineer,Languages in Motion Ltd.,Canada,2022-03-26,https://ca.linkedin.com/jobs/view/data-engineer-at-languages-in-motion-ltd-2987168846?refId=CR3K%2BKTOQPbnmgFQTZKytg%3D%3D&trackingId=dkiZxHb9QfrYRbd4Vh2Ogg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card,"Responsibilities
+
+Analyze and organize raw data 
+Build data systems and pipelines
+Evaluate business needs and objectives
+Interpret trends and patterns
+Conduct complex data analysis and report on results 
+Prepare data for prescriptive and predictive modeling
+Build algorithms and prototypes
+Combine raw information from different sources
+Explore ways to enhance data quality and reliability
+Identify opportunities for data acquisition
+Develop analytical tools and programs
+Collaborate with data scientists and architects on several projects
+
+
+
+
+Show more Show less",Full-time,,Canada,
+2991237471,Data Engineer,Ratehub.ca,Canada,2022-03-26,https://ca.linkedin.com/jobs/view/data-engineer-at-ratehub-ca-2991237471?refId=CR3K%2BKTOQPbnmgFQTZKytg%3D%3D&trackingId=D7kjaxfgqh%2Br47HDNffBwQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card,"WHO IS RATEHUB.CA?
+
+We’re a company on a mission. Every single team member, from product & engineering, to sales & marketing, finance, operations and everything in between is obsessed with one thing; helping Canadian’s make better financial choices. And we’re pretty great at it, too. Via our digital application technology and our award winning in-house brokerages, we help over 1m Canadian’s per month make a positive impact on their finances. 365 days a year we deliver our users the best online mortgage experience, personalized credit card options, and cheaper auto & home insurance policies than they typically get from their existing financial adviser.
+
+Changing how people make financial choices isn’t easy, though. We know that achieving our mission is full of challenges; challenges that can be complex and often unexpected, but that are always interesting, rewarding and fun to solve as a team. This is where you come in. We are on the hunt for the right kind of people to join us and help lead us forward to continued growth.
+
+We’re looking for a Data Engineer to join our growing team. Reporting to the Director of Analytics, the Data Engineer is an integral member of Ratehub’s Analytics team. The role will own and maintain our data warehouse infrastructure and will be responsible to make the necessary optimizations and improvements supporting the push for data governance. This is an exciting opportunity to join a high-performing team, directly impacting the business as well as the design and evolution of the organization’s internal processes and infrastructure.
+
+Your Responsibilities
+
+Own & manage our overall analytics infrastructure
+Partner with internal stakeholders to determine requirements, anticipate future needs, and identify areas of opportunity to drive efficiency and scalability
+Develop data pipelines from various internal and external sources
+Improve data quality checks and setup appropriate alerts on ETL processes to enhance reliability and updating them for any upcoming changes
+Implement internal process improvements by building robust and scalable automations for manual processes, optimizing data delivery etc
+Refactor code to improve query performance and load times
+Manage data security including PII hashing & access controls
+
+
+Your Qualifications
+
+Post-secondary degree: We value intelligence over relevance, but a Bachelors in Computer Science would be looked upon favourably
+2+ years’ of similar work experience
+
+
+These are the skills that are required:
+
+Advanced SQL knowledge
+Experience in building and maintaining ETL pipelines using Python
+Experience in managing ETL pipelines through Apache Airflow (dbt a huge plus)
+Experience in working with AWS infrastructure (EC2, S3, Redshift, Lambda etc)
+
+
+These are the skills that are nice to have:
+
+Familiarity with data QA frameworks such as Great Expectations
+Familiarity with Data visualization tools like Tableau, Power BI, Looker (we use Looker so extra points for that)
+Familiarity with Excel and/or Google Sheets (including macros & google scripts)
+
+
+BEYOND THE TECHNICAL YOU ARE:
+
+Detail oriented: High standard of data quality and integrity
+Resourceful: You don’t have all the answers, but you know how to get them
+Strong problem-solving skills and critical thinking abilities
+Adaptable to a fast paced environment and able to pivot quickly to align with changing priorities
+
+
+CULTURE FIT
+
+Fun: You bring your whole self to work and make an effort to contribute to our workplace culture in a positive way
+Do the right thing: You are able to assess both customer and company needs to make good business choices
+Growth mindset: You love to learn and try new things
+Willing to Help: You care about your team members and are willing to help out outside your realm of expertise.
+Impact orientated: You are motivated by results and track to completion
+
+
+Ratehub welcomes and encourages applications from people with disabilities. Accommodations are available upon request for candidates taking part in all aspects of the selection process.
+
+Powered by JazzHR
+
+n40Ycfgc6P
+Show more Show less",Full-time,Mid-Senior level,"Toronto, Ontario, Canada",Information Technology
+2991245639,"Data Engineer - (Remote, Canada based)",Ratehub.ca,Canada,2022-03-26,https://ca.linkedin.com/jobs/view/data-engineer-remote-canada-based-at-ratehub-ca-2991245639?refId=CR3K%2BKTOQPbnmgFQTZKytg%3D%3D&trackingId=%2FC0SJx3CedRWSflPu4NYtA%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card,"WHO IS RATEHUB.CA?
+
+We’re a company on a mission. Every single team member, from product & engineering, to sales & marketing, finance, operations and everything in between is obsessed with one thing; helping Canadian’s make better financial choices. And we’re pretty great at it, too. Via our digital application technology and our award winning in-house brokerages, we help over 1m Canadian’s per month make a positive impact on their finances. 365 days a year we deliver our users the best online mortgage experience, personalized credit card options, and cheaper auto & home insurance policies than they typically get from their existing financial adviser.
+
+Changing how people make financial choices isn’t easy, though. We know that achieving our mission is full of challenges; challenges that can be complex and often unexpected, but that are always interesting, rewarding and fun to solve as a team. This is where you come in. We are on the hunt for the right kind of people to join us and help lead us forward to continued growth.
+
+We’re looking for a Data Engineer to join our growing team. Reporting to the Director of Analytics, the Data Engineer is an integral member of Ratehub’s Analytics team. The role will own and maintain our data warehouse infrastructure and will be responsible to make the necessary optimizations and improvements supporting the push for data governance. This is an exciting opportunity to join a high-performing team, directly impacting the business as well as the design and evolution of the organization’s internal processes and infrastructure.
+
+Your Responsibilities
+
+Own & manage our overall analytics infrastructure
+Partner with internal stakeholders to determine requirements, anticipate future needs, and identify areas of opportunity to drive efficiency and scalability
+Develop data pipelines from various internal and external sources
+Improve data quality checks and setup appropriate alerts on ETL processes to enhance reliability and updating them for any upcoming changes
+Implement internal process improvements by building robust and scalable automations for manual processes, optimizing data delivery etc
+Refactor code to improve query performance and load times
+Manage data security including PII hashing & access controls
+
+
+Your Qualifications
+
+Post-secondary degree: We value intelligence over relevance, but a Bachelors in Computer Science would be looked upon favourably
+2+ years’ of similar work experience
+
+
+These are the skills that are required:
+
+Advanced SQL knowledge
+Experience in building and maintaining ETL pipelines using Python
+Experience in managing ETL pipelines through Apache Airflow (dbt a huge plus)
+Experience in working with AWS infrastructure (EC2, S3, Redshift, Lambda etc)
+
+
+These are the skills that are nice to have:
+
+Familiarity with data QA frameworks such as Great Expectations
+Familiarity with Data visualization tools like Tableau, Power BI, Looker (we use Looker so extra points for that)
+Familiarity with Excel and/or Google Sheets (including macros & google scripts)
+
+
+BEYOND THE TECHNICAL YOU ARE:
+
+Detail oriented: High standard of data quality and integrity
+Resourceful: You don’t have all the answers, but you know how to get them
+Strong problem-solving skills and critical thinking abilities
+Adaptable to a fast paced environment and able to pivot quickly to align with changing priorities
+
+
+CULTURE FIT
+
+Fun: You bring your whole self to work and make an effort to contribute to our workplace culture in a positive way
+Do the right thing: You are able to assess both customer and company needs to make good business choices
+Growth mindset: You love to learn and try new things
+Willing to Help: You care about your team members and are willing to help out outside your realm of expertise.
+Impact orientated: You are motivated by results and track to completion
+
+
+Ratehub welcomes and encourages applications from people with disabilities. Accommodations are available upon request for candidates taking part in all aspects of the selection process.
+
+Powered by JazzHR
+
+S5RTc9jCOT
+Show more Show less",Full-time,Mid-Senior level,"Toronto, Ontario, Canada",Information Technology
+2944939412,Senior Data Engineer,Citi,Canada,2022-03-02,https://ca.linkedin.com/jobs/view/senior-data-engineer-at-citi-2944939412?refId=CR3K%2BKTOQPbnmgFQTZKytg%3D%3D&trackingId=UcBbspAeBZZd3M3o47FSYg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card,"Job Id: 22439058
+
+Overview of Citi:
+
+Citi, the world leading global bank, has approximately 200 million customer accounts and a presence in more than 160 countries and jurisdictions worldwide. Citi provides consumers, corporations, governments, and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management. Citi enables clients to achieve their strategic financial objectives by providing them with cutting-edge ideas, best-in-class products and solutions, and unparalleled access to capital and liquidity.
+
+Team/Position Overview
+
+The Institutional Clients Group (ICG) Engineering and Architecture Practice (EAP) is responsible for defining and executing core architecture and technology strategy for the Institutional Clients Group (ICG) and works across the ICG businesses (Markets, Treasury and Trade Services, Private Bank, and Shared Services) to ensure complete strategic alignment and efficiency of execution across a diverse portfolio of engineering activities, including external Cloud Capability development, Platform Architectures, and Data Engineering.
+
+The ICG EAP is seeking Senior Data Engineer to join our team. The hire will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data wrangler who enjoys optimizing existing data systems and/or building them from the ground up. This job involves being part of a dynamic team and contributing towards software development of core components within the next generation Cloud and Big Data Analytics Platform. The candidate will have an eye for building and optimizing real-time and regular analytics and data systems and will work closely with our systems architects, data scientists, and analysts to help direct the flow of data within the pipeline and ensure consistency of data delivery and utilization across multiple projects.
+
+This role also provides opportunities to learn new technologies, take on interesting challenges and work with a passionate diverse team.
+
+ 
+
+Key Responsibilities:
+
+Develop applications and enhancements based on the requirements
+Responsible for systems analysis, Design, Coding, Unit Testing and other SDLC activities
+Understanding requirements, Analyze and convert functional requirements into concrete technical tasks and able to provide reasonable effort estimates
+Work across line of businesses to frame and develop scalable, re-usable data pipelines, Marts, Mesh and communication between warehouses; works closely with other teams as partner
+Work proactively, independently and with global teams to address project requirements, and articulate issues/challenges with enough lead time to address project delivery risks
+Providing expertise in technical analysis and solving technical issues during project delivery
+Code reviews, test case reviews and ensure code developed meets the requirements
+Demonstrate ownership and initiative taking
+
+Must Have Experience:
+
+Strong Experience in Spark, Kafka
+Strong programming skills in Java/ Scala or Python
+Service oriented architecture, and data standards like JSON, Avro, Parquet
+Knowledge of Messaging system, ETL tools
+Ability to own technical delivery/reported issues to completion
+Excellent analytical and troubleshooting skills is a must
+
+Nice to have Skills:
+
+Snowflake
+Cloud experience – AWS / GCP
+Beam, Flink
+Python, and SQL highly desired.
+API development
+Experience working with financial data.
+
+Citi Canada is an equal opportunity employer. Accordingly, we will make accommodations to respond to the needs of people with disabilities (including, without limitation, physical and mental health disabilities) during the recruitment process and otherwise in accordance with law. Individuals who view themselves as Aboriginals, members of visible minority or racialized communities, and people with disabilities are encouraged to apply.
+
+-------------------------------------------------
+
+Job Family Group:
+
+Technology
+
+-------------------------------------------------
+
+Job Family:
+
+Systems & Engineering
+
+------------------------------------------------------
+
+Time Type:
+
+Full time
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries (""Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the ""EEO is the Law"" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting
+
+
+Show more Show less",Full-time,Not Applicable,"Mississauga, Ontario, Canada",Information Technology
+2982435448,Data Engineer,SRK Consulting,Canada,2022-03-25,https://ca.linkedin.com/jobs/view/data-engineer-at-srk-consulting-2982435448?refId=CR3K%2BKTOQPbnmgFQTZKytg%3D%3D&trackingId=66AwT5J%2B8ZtLC8WeYdGYng%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card,"Pandas, SQL, R, dimensional modeling, DAX, M plus any kind of geoscientific or environmental data background.
+Show more Show less",Full-time,,Canada,
+2980961668,Cloud Engineer,StellarAlgo,Canada,2022-03-24,https://ca.linkedin.com/jobs/view/cloud-engineer-at-stellaralgo-2980961668?refId=irquKSlBSCrs9KWWqQUq8g%3D%3D&trackingId=l%2F6TdWyzT4OXoYiUihmW4A%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card,"Contribute to the design and implementation of our Data Science methodology through the full ML life cycle, specifically focused on storage, configuration, permissions, terraforming and automation.
+
+Monitor ML Ops environments, including cloud components for AWS SageMaker, Github and Docker.
+
+Invest in training up on the latest technologies, software engineering, and cloud engineering for analytics & Data Science.
+
+Transform complex problems into simple solutions, drive new ideas forward and demonstrate a growth mindset through each challenge.
+Show more Show less",Full-time,,"Calgary, Alberta, Canada ",
+2984514542,Cloud Engineer,Nakisa,Canada,2022-03-25,https://ca.linkedin.com/jobs/view/cloud-engineer-at-nakisa-2984514542?refId=irquKSlBSCrs9KWWqQUq8g%3D%3D&trackingId=T1qSadUE6QAVn9oI60TJfw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card,"Remote - must be located on the East time zone
+
+
+
+
+Nakisa is a global leader in enterprise business solutions for Organization Design and Accounting and Compliance. Nakisa delivers innovative, forward-thinking, and robust human resource and financial management solutions that advance business strategies. Nakisa has built top of the line software solutions which are being used by the Fortune 1000 of today.
+
+
+
+
+We believe the key to our success is our unity in thought and action. Though there is always room for improvement, we work hard to ensure Nakisa values (Fairness, Integrity, Service, and Humility) drives our behaviors at all levels.
+
+
+
+
+Our solutions have excelled in the market and we are committed to excel in its delivery and implementation aiming for our customers to have the best possible experience in their journey with Nakisa.
+
+
+
+
+The Cloud Engineer is responsible for building, continuous monitoring, deploying, and supporting a variety of Nakisa’s applications in the cloud. The ideal candidate will provide subject matter expertise to support system operations services to both internal and external clients in the development, QA, and production environment.
+
+
+
+
+Responsibilities:
+
+
+
+
+As a Cloud Engineer at Nakisa, you will set-up, monitor, and manage a variety of Cloud application environments running on Linux servers, using multiple cloud vendors such as AWS and Azure, managing Kubernetes clusters and deployments across multiple regions. You will be responsible for operations, automation of repetitive operational tasks, providing technical support for mission-critical systems, and maintaining their recovery in case of any failures.
+
+
+
+
+You take personal ownership and pride over the critical systems managed by you. Save the day when needed but most importantly anticipate and prevent disasters in the first place. You have the knowledge to create pipelines for build-management and deployments, and proficient in understanding container-based and cloud-native software services as well as JAVA servers.
+
+
+
+
+Skills:
+
+
+
+
+- You have at least 2 years of experience in Python, Ansible, Puppet, Docker, Docker-Compose, Git, DevOps, Linux, Networking, Cloud, REST, SSO, ELK, Network Isolation strategies, web-security, and DBMS management.
+
+- Communication and collaboration skills will be of paramount importance in your position. Effective and quick response time to all issues are expected, as are excellent analytical, problem-solving, time-management skills, and an awareness of laws regarding data governance and protection.
+
+- The Cloud Engineer documents all reported issues, build recipes for actions performed in response to issues and maintain the records for compliance reasons.
+
+- Proficient in system thinking, anticipating side effects, and effective use of strategies to provide workarounds to reduce severities of incidents.
+
+- Desire to automate repetitive operational work.
+
+
+
+
+Experience:
+
+
+
+
+- +4 years managing and supporting Cloud for mission-critical, scalable, cloud applications.
+
+- Bachelor's degree in computer science or engineering.
+
+- Experience with monitoring, automation of repetitive tasks, and pipelines.
+
+- Experience in various DBMS, ERP, and cloud-native software management.
+
+
+
+
+Good to Have:
+
+
+
+
+- Experience with microservices, Helm, Istio
+
+- Experience with Web application servers and frameworks such as Tomcat NodeJS
+
+- Experience of JAVA programming
+
+- Knowledge of Sock II, GDPR, and data protection compliance.
+
+Show more Show less",Full-time,,"Montreal, Quebec, Canada",
+2983987580,Cloud Engineer,AMTRA Solutions,Canada,2022-03-25,https://ca.linkedin.com/jobs/view/cloud-engineer-at-amtra-solutions-2983987580?refId=irquKSlBSCrs9KWWqQUq8g%3D%3D&trackingId=xBlNIy1Ie4nXjQL6W2nGBA%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card,"AMTRA Solutions has an exciting new opportunity with our Security & Cloud practice. We’re in search of a Senior Cloud Engineer who can seamlessly mesh tech know-how with business acumen to help us navigate our client’s cloud computing needs, including infrastructure design, maintenance, support, and planning. Not only are you experienced in cloud-based tech, but you have a firm grasp of Microsoft technologies, platforms, and applications, and have intimate knowledge of how to customize these attributes most effectively for our clients. Not only can you help us connect the dots and evolve our cloud capabilities over time, but you’re also evolving your own capabilities as an engineer and keeping an eye on developments that can support our expansion—and help us implement those, too.
+
+
+
+
+Work Location: We are open to candidates across Canada. The selected candidate can work remotely. Our preference is for us to hire someone permanently, but we are open to hiring someone on contract as well.
+
+
+
+
+Duties:
+
+
+
+
+This is a professional services project delivery role where you’ll work with clients and our AMTRA cloud and security team. From a client perspective, your primary audience will be C-suite level professionals so you must be able to carry a conversation, present as a trusted advisor, and win the hearts and minds of both senior leaders and technical stakeholders alike. This role has a 70% billable utilization target with the remaining 30% reserved for pre-sales activities.
+
+
+
+
+You’ll be working with the following technologies:
+
+
+
+
+Azure Networking Design and Implementation
+
+Azure IaaS, PaaS. Architecture Design and Implementation
+
+Identity and Access Management
+
+Microsoft Information Protection
+
+Microsoft 365 Defender
+
+Microsoft Sentinel
+
+Microsoft 365 Suite (nice-to-have)
+
+In this role you will:
+
+
+
+
+Provide expertise in Azure pre-sales activities by speaking knowledgably to customer requirements
+
+Create documentation such as Proposals, Statements of Work, Managed Services Agreements, etc.
+
+Participate in Azure solution development and deployment activities as it relates to the SoW’s AMTRA puts forward
+
+Identify, analyze, and resolve infrastructure vulnerabilities and application deployment issues
+
+Implement security products and configurations for new and existing clients through project teamwork
+
+Provide Azure managed services support including monitoring client environments for business continuity and making recommendations based on client needs
+
+Perform risk assessments and analyze results to write formal findings reports that support client needs
+
+Stay current with industry advancements and Microsoft product evolutions.
+
+
+
+
+Experience & Knowledge You Bring to the Team:
+
+
+
+
+Experience in Infrastructure and Operations along with experience in cloud network infrastructure in Azure
+
+Deep domain expertise of cloud infrastructure solutions (i.e., Windows and Linux IaaS, PaaS, BCDR, Security, Management, Storage, Networking, OSS, containers and Infra as a code technologies)
+
+Experience with enterprise and technical infrastructure design methodologies as well as datacenter architectures and automation
+
+You’ve built cloud governance plans and established cloud best-practices and procedures
+
+A strong background in enterprise and technical architecture design
+
+An extensive understanding of IT governance, risk, and compliance
+
+You’re known for delivering amazing client experiences.
+
+
+
+
+About You:
+
+
+
+
+You have an interest in Cloud Engineering and its impact on greater business practices.
+
+You are a strong communicator and have a way of translating complex ideas in a way that makes sense for all audiences
+
+You can command the room but, at the same time, you’re curious and your questions are prompting and create open dialogue
+
+Can carry a conversation, both on the technical level as well on a business level; you can easily translate technical jargon to a non-technical audience
+
+You have no issue listening to understand rather than respond
+
+You provide the right insights, boosting the customer’s confidence in their roadmap and
+
+
+
+
+AMTRA’s capabilities
+
+You’re an innovative problem solver and possess top-notch design and testing skills
+
+You are analytical, investigative, and highly organized
+
+When customers interact with you, they are excited about your positive attitude and ability to gain traction with people you work with across their business.
+
+
+
+
+Certifications:
+
+
+
+
+Candidates holding active Azure certifications will be prioritized; nice-to-haves include Azure Architect Expert or any major Azure or M365 certifications.
+
+Show more Show less",Full-time,,Canada,
+2983995850,Cloud Engineer,RBC,Canada,2022-03-25,https://ca.linkedin.com/jobs/view/cloud-engineer-at-rbc-2983995850?refId=irquKSlBSCrs9KWWqQUq8g%3D%3D&trackingId=2Xv1l1mc7srdLIFe7C80mw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card,"Come Work with Us!
+
+At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.
+
+Whether you’re helping clients find new opportunities, developing new technology, or providing expert advice to internal partners, you will be doing work that matters in the world, in an environment built on teamwork, service, responsibility, diversity, and integrity.
+
+Job Title
+
+Cloud Engineer
+
+Job Description
+
+What is the opportunity?
+
+As the Cloud Developer in the maintenance team, you will be responsible for the safety and soundness of our systems running on our private cloud. The responsibilities include maintaining our applications, troubleshooting problems and application enhancements.
+
+What will you do?
+
+Support the systems and keep up the currency of the cloud applications
+Work with the site reliability engineer to proactively monitor for potential issues and resolve issues
+Lead the technical troubleshooting of production issues with the cloud applications
+Develop application enhancements to meet business needs
+
+What do you need to succeed?
+
+Must-have
+
+Previous experience working in a production support role
+Strong understanding of what makes a robust and reliable system
+Computer Science degree or equivalent
+Java and Spring Boot development background
+
+Nice-to-have
+
+Cloud development (esp. Pivotal Cloud Foundry, Red Hat OpenShift)
+Experience with Observability tools (e.g. Dynatrace and ELK)
+
+What’s in it for you?
+
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.
+
+A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable
+Leaders who support your development through coaching and managing opportunities
+Work in a dynamic, collaborative, progressive, and high-performing team
+Opportunities to do challenging work
+Opportunities to take on progressively greater accountabilities
+Access to a variety of job opportunities across business and geographies
+
+RBC requires as a condition of employment that all successful candidates in the United States and Canada be fully vaccinated against COVID-19 prior to their start date, and may require proof of the same. Reasonable accommodation is available where required by law.
+
+RBC exige, à titre de condition d'emploi, que tous les candidats retenus aux États-Unis ou au Canada soient entièrement vaccinés contre la COVID-19 avant leur date d'entrée en fonction. Il est possible qu'ils aient à présenter une preuve vaccinale. Des mesures raisonnables d'adaptation sont offertes lorsque la loi l'exige
+
+Address
+
+Job Summary
+
+TORONTO, Ontario, Canada
+
+City
+
+CAN-ON-TORONTO
+
+Country
+
+Canada
+
+Work Hours/week
+
+37.5
+
+Employment Type
+
+Full time
+
+Platform
+
+Technology and Operations
+
+Job Type
+
+Regular
+
+Pay Type
+
+Salaried
+
+Posted Date
+
+2022-03-25-07:00
+
+Application Deadline
+
+2022-04-24-07:00
+
+Inclusion and Equal Opportunity Employment
+
+At RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.
+
+We also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.
+
+Join our Talent Community
+
+Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.
+
+Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at rbc.com/careers.
+Show more Show less",Full-time,Not Applicable,"Toronto, Ontario, Canada",Engineering and Information Technology
+2988462320,Cloud Engineer,TEEMA,Canada,2022-03-24,https://ca.linkedin.com/jobs/view/cloud-engineer-at-teema-2988462320?refId=irquKSlBSCrs9KWWqQUq8g%3D%3D&trackingId=gqBK5%2BxrS2RkukoYqQjFkw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card,"Title: Azure Cloud Engineer
+
+Reporting to the Operations Manager, you will play a lead role in developing cloud strategy with an emphasis on providing better or easier ways to manage our global IT landscape. We are dedicated to helping global brands achieve customer-centric growth. We build customized marketing and human experience solutions for our clients, enabled by technology and data insights. Our business has grown significantly since March 2020, and we have added 200 new roles due to our explosive growth.
+
+Responsibilities - what will you be doing:
+
+Assist in design, deployment and support of PaaS and IaaS solutions in a public and private cloud platform such as Azure and VMware.
+Perform necessary migration of data and services from private to public cloud platforms.
+Assist in the operational development of newly implemented Azure applications and microservices.
+Provide support for Azure Microservices and applications.
+Define innovative solutions using concepts such as infrastructure-as-code, deployment orchestration, automation templates, and scripting.
+Handle case management, incident management, change management, and proactive monitoring of the global hybrid cloud infrastructure hosting our enterprise-class application.
+
+A typical day in this role might include:
+
+Create a strategy for establishing a secure and well-managed enterprise environment in Azure
+Provide expertise for the implementation of Infrastructure-as-Code solution to automate the deployment of resource stacks and associated configurations
+Establish governance for use of native Azure services to meet the firm’s resiliency and data protection requirements
+Lead design process for network connectivity and resource and data security in Azure
+Provide expertise for the implementation of monitoring and management infrastructure for health, availability, and performance management
+Establish governance for instance selection model for Azure virtual machines and native services
+Establish governance for configuration of dynamic Azure resource scalability, costs monitoring, and approvals
+Define infrastructure migration methodologies and techniques to migrate existing legacy workloads into Azure
+
+Qualifications:
+
+10+ years of experience as a full time IT professional
+3+ years of experience designing and supporting Azure environments, including IaaS and PaaS
+Microsoft Azure Certification, Good to have
+Solid understanding of current and emerging Azure services, tools, and offerings
+Solid understanding of the Azure service implementation, interconnecting, and security best practices, and patterns
+Bachelor's degree (in Computer Science, Math, or Engineering)
+Demonstrable experience deploying enterprise workloads to Azure.
+Proficiency with PowerShell, Python, or other scripting languages
+Hands-on experience with one or more infrastructure configuration management systems such as Terraform, Ansible or Salt
+Experience designing and supporting enterprise core services as well as cloud deployments of these services
+Extensive knowledge of the Microsoft Enterprise software products and services
+
+Location: North Mississauga (hybrid 2 days/week)
+
+Salary/compensation: 110-120K
+
+Perks & benefits: Excellent
+
+For more information about TEEMA and to consider other career opportunities, please visit our website at www.teemagroup.com
+
+Show more Show less",Full-time,Mid-Senior level,"Mississauga, Ontario, Canada ",Engineering and Information Technology

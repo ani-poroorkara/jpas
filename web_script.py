@@ -1,5 +1,9 @@
-import imp
+"""
+LINKEDIN WEB SCRAPER 
+"""
+# Import buildins
 import logging
+import os
 from linkedin_jobs_scraper import LinkedinScraper
 from linkedin_jobs_scraper.events import Events, EventData
 from linkedin_jobs_scraper.query import Query, QueryOptions, QueryFilters
@@ -7,6 +11,7 @@ from linkedin_jobs_scraper.filters import RelevanceFilters, TimeFilters, TypeFil
 import datetime
 import csv
 
+#import config
 from config import jobList
 
 # Change root logger level (default is WARN)
@@ -29,16 +34,21 @@ x = str(x).replace(":", "")
 x = str(x).replace(".", "")
 f = open("data/data_"+x+".csv", "a", encoding="utf-8")
 writer = csv.writer(f)
+row = ["job_id","title","company","location","date","link","description","employment_type","seniority_level","place","job_function"]
+writer.writerow(row)
 
-
+# Data extraction successful
 def on_data(data: EventData):
-    row = [str(data.title), str(data.company), str(data.date), str(data.link), str(data.description)]
+
+    row = [str(data.job_id), str(data.title), str(data.company), str(data.location), str(data.date), str(data.link), str(data.description), str(data.employment_type), str(data.seniority_level), str(data.place), str(data.job_function)]
     writer.writerow(row)
     # print('[ON_DATA]', data.title, data.company, data.date, data.link, len(data.description))
 
+# Data error
 def on_error(error):
     print('[ON_ERROR]', error)
 
+# Done 
 def on_end():
     print('[ON_END]')
 
@@ -55,7 +65,7 @@ while ( c < len(jobList)):
             options=QueryOptions(
                 locations=['Canada'],
                 optimize=True,
-                limit=150,
+                limit=5,
                 filters=QueryFilters(  # Filter by companies
                     relevance=RelevanceFilters.RECENT,
                     time=TimeFilters.MONTH,
