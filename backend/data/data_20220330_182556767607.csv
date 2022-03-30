@@ -1,0 +1,723 @@
+job_id,title,company,location,date,link,description,employment_type,seniority_level,place,job_function
+2996678271,Junior Software Developer,Perpetua,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/junior-software-developer-at-perpetua-2996678271?refId=uP46EWNyo8IGr51RdGF6HA%3D%3D&trackingId=k97%2FWAao4a891sd3qnScpQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card,"Perpetua's mission is to give superpowers to anyone that sells online by building best-in-class ecommerce advertising products. At the moment, we help agencies, brands, and sellers win on Amazon, Instacart, Walmart, and Target by analyzing large amounts of data and using AI to develop smart optimization algorithms that drive transformational sales growth for our clients.
+
+
+
+
+Our backend and ad engine are mostly written in Python and our frontend is React/Redux written in Typescript. We’re already transforming the way businesses approach e-commerce and online advertising and we’re ready to grow. Currently, we are looking for a candidate who can focus more on Backend techstacks
+
+
+
+
+What You'll Do
+
+Develop core features for Perpetua’s backend infrastructure
+Design and build robust and scalable systems to generate business insights, reporting and analytics
+Take primary ownership for the development and maintenance of your product or feature
+Contribute to product vision and development
+Launch your product or feature and track user metrics
+Build sane systems and craft amazing products that work at scale
+Work in a fast-paced, scaling start-up building software that is truly impactful
+
+
+
+
+Things You'll Have
+
+1+ Years of Software Engineering Experience
+Ability to think on your feet and adapt to changing/open-ended requirements
+Ability to communicate your thoughts and ideas
+Familiarity with algorithms, data structures, and complexity analysis
+Experience running production systems including deploying, monitoring, and debugging
+
+
+
+
+Next step
+
+The next step would be to complete a project-based assessment on the Hatchways platform.
+
+
+
+
+Bonus Points For
+
+Previous experience with a fast scaling start-up
+Experience with B2B or business insights and analytics
+Relevant personal projects and open source work
+Experience in a marketing or advertising space
+
+
+
+
+Company Benefits
+
+Full benefits plus a health spending account from day 1
+Top-of-the-line technology to help you build your own workspace
+Automatic enrolment in our employee revenue sharing plan
+Flexible time off policy
+Free catered office lunches from Toronto's best restaurants daily
+Unlimited snacks and drinks in the office
+
+
+
+
+At Perpetua, we are dedicated to pursuing and hiring a diverse workforce with varied experiences, perspectives and opinions. We believe diversity helps our team perform better and enables us to build an outstanding product for our customers. We are an equal opportunity employer and are committed to work with applicants requesting accommodation at any stage of the hiring process.
+
+Show more Show less",Full-time,,"Toronto, Ontario, Canada",
+2991562231,Junior Software Engineer,INVRS - Collaborative Investment Research,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/junior-software-engineer-at-invrs-collaborative-investment-research-2991562231?refId=uP46EWNyo8IGr51RdGF6HA%3D%3D&trackingId=d2pQA3wiOqGTtCdIJw8xSA%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card,"Position: Junior Software Developer (Back-end)
+
+Reports to: CTO
+
+About Us:
+
+The desire to express oneself is universal so it’s no surprise that a big trend on the internet is the creator economy. There are an estimated 50M creators online and many millions more consuming that content. There are platforms that service people teaching courses, making videos, selling their art, and writing blogs. 
+
+INVRS is at the forefront of the creator economy with a platform serving the world of investing. Finance creators have unique needs: financial data & tools they can manipulate and share, an audience they can nurture and move down a sales funnel, and flexibility in the way they monetize. This is what INVRS delivers. We provide everything a finance creator needs for free and we take a cut of their revenue when they make a sale.
+
+About You:
+
+You love coding. You love getting to the root of a problem and figuring it out. You take pride in seeing a creation you’ve worked on come to life. You also have an entrepreneurial bent. You know that the world is changing at a tremendous pace, and you are interested in being part of the next big thing. You also like the idea of working in a company that’s more than happy to let you contribute ideas and insight. 
+
+Welcome to Your First Job at INVRS
+
+Your first job at INVRS will be to write automated regression tests in both Javascript and Java. We have an aggressive development schedule, so ensuring that nothing breaks as we add to our platform is vital. 
+
+Despite the thoroughness of the tests you write, there will always be instances when software works in an unexpected way. Under the supervision of the CTO, you will gain experience problem solving as you look for the cause of these expectation misalignments. As you become more familiar with our architecture, you will work on projects which users will interact with, to develop software that will be part of the platform.  
+
+Primary Responsibilities
+
+Work with the CTO to enhance a fintech application in the investment analysis space. The successful candidate will have experience working in Java, JavaScript, the Spring Framework, Servlets, HTTP filters, Tomcat, SQL and object relational mapping tools (MyBatis, Hibernate, JPA). Understanding the front-end technologies such as HTML, CSS, and Vue.js is helpful.
+
+The incumbent will work on specific components of the application and will be integrating third party widgets and APIs. He/she will also be involved in adapting older features of the technology with the new application.
+
+Hard Skills
+
+Java
+Spring Framework
+Servlets
+HTTP filters
+Tomcat
+SQL (MySQL)
+Object Relational Mapping Tools
+
+Soft-skills
+
+Self-motivated, flexible, and adaptable
+Positive attitude and the ability to work well in a team
+Ability to quickly adapt to new needs, suppliers and information.
+
+
+
+
+Show more Show less",Full-time,,"Ontario, Canada ",
+2996685379,Junior Software Engineer,Walnut,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/junior-software-engineer-at-walnut-2996685379?refId=uP46EWNyo8IGr51RdGF6HA%3D%3D&trackingId=hGBYSAqmvA9bhwU94ySiIw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card,"Our Mission
+
+We believe that nobody should struggle financially to receive healthcare. Every year, 500,000 families in the United States declare bankruptcy due to large medical bills. People should not have their lives destroyed because they can’t afford something they require to survive. At Walnut, we’re on a mission to change this number from 500,000 bankruptcies per year to 0.
+
+What we do
+
+Walnut is a fintech company that expands financial access to healthcare. We’re building a point-of-sale embedded lending platform that makes healthcare more affordable for patients by breaking up large medical bills into small, monthly payments. This helps patients actually afford healthcare and helps healthcare providers capture more revenue and increase collections. We’re backed by prominent investors including Gradient Ventures (Google’s AI-focused venture fund), Plaid, Afore Capital, 2048 Ventures, Newark Venture Partners, Supernode Ventures, and others.
+
+
+
+
+About the Role
+
+Overview
+
+As our first Software Engineer, you will be an integral member of a small, fast-paced engineering team building our core product and scaling it as the company grows. As our first hire, this is a tremendous opportunity to influence the growth of a new team and build a novel and impactful technology that improves the financial well-being of patients.
+
+
+
+
+What You’ll Do
+
+As an early member of our engineering team, you will work directly with the CTO and Head of Product to spec, design, and build the core product functionality
+Specifically, you’ll work on expanding the functionality of our live MVP to optimize the user onboarding flow, enhance authentication, integrate with 3rd-party data providers we use for underwriting decisioning, build out the decision engine itself, and much more.
+Be part of our weekly product development cycle where you'll convert product requirements into functionality.
+Develop product intuition by spending time with our users and increasingly take ownership of coming up with product requirements.
+Solve problems you don't know how to solve: You'll encounter challenges we haven't yet come across yet. And when the time comes, you'll think through problems, evaluate approaches and teach yourself whatever is needed.
+Lay a solid foundation for the product to scale, keep our technical debt in check and help us hire a team of incredible engineers.
+Have something you want to learn or accomplish in this role? Tell us about it! We want to give you the best career opportunity you've ever had.
+
+
+
+
+What We’re Looking For
+
+0-3 years of experience as a software engineer
+Hustle & Grit. Willingness and desire to take on personal responsibility for the business as a whole and “figure it out”, whether it’s in your exact functional lane or not.
+Excitement and passion for expanding financial access to healthcare.
+Experience with Java, a relational database, React (or a comparable front-end framework) and building full-stack web apps.
+A great understanding of how Restful services and Gradle works
+Our full tech stack includes: Docker, Spring, Gradle, Hibernate, ExpressJS, NextJS, Amazon Web Services, Java, N8N, Python
+
+
+
+
+Next steps
+
+The next step would be to complete the project-based assessment on the Hatchways platform
+
+
+
+
+What We Offer
+
+💰 Competitive compensation and equity - we will pay you for your level of experience
+🏥 Competitive health benefits (medical, dental, vision)
+🌴Unlimited vacation with a minimum of 10 days off per year
+💻 New equipment for you to do your best work
+🚀 Opportunity to make a significant contribution to a product that's already transforming how people pay for healthcare
+🧳 An organization that supports learning and development. We will find mentors to help you level up, provide you the stretch opportunities and make resources available to help you grow
+
+
+
+
+Show more Show less",Full-time,,Canada,
+2996712185,Junior Software Engineer,Appara,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/junior-software-engineer-at-appara-2996712185?refId=uP46EWNyo8IGr51RdGF6HA%3D%3D&trackingId=tzTF1ADMe55uEzs3tVu5yQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card," 
+
+OVERVIEW:
+
+
+
+
+We’re looking for a Junior Full Stack Software Developer for our Software Development team to join us in the design, building, testing, and deployment of new products and features for the Appara Legal Automation Platform. You’ll be working with a team of talented developers to develop high-quality products that are scalable, testable, and extensible and provide high value to our customers.
+
+
+
+
+As a key member of the development team, you will work closely with designers, product managers, and other stakeholders to define and execute on our vision and values. While based in Appara’s Vancouver office, you will report to the Chief Technology Officer.
+
+
+
+
+WHAT YOU’LL DO:
+
+
+
+
+Collaborate with teammates to design, build, test, and ship high-quality software to Appara’s customers.
+Iterate in an agile fashion creating hypotheses and testing them with incremental code shipments through continuous integration.
+Identify multiple candidate solutions to a problem and evaluate them for fit given the constraints of the project.
+The technologies you will be working with are: C#, JavaScript + React, Azure, SQL Server.
+
+
+
+
+WHAT YOU’LL NEED:
+
+
+
+
+Education:
+
+A degree in Computer Science or Engineering.
+
+Experience:
+
+At least 1 year of experience in designing, developing and maintaining software or an equivalent level of work experience (can be via CO-OP terms).
+Expert-level competence in at least one platform language and a desire to learn other languages. Ideally, you have knowledge of C#, JavaScript, and managing complex data in SQL Server.
+
+Qualities:
+
+Collaboration and Teamwork: works with others to deliver results, meaningfully contributing to the team and prioritizing group needs over individual needs.
+Creativity and Innovation: looks to seek new and better ways of doing things, generating original and imaginative ideas, products, and/or solutions.
+Problem Solving: uses an organized and logical approach to find solutions to complex problems and looks beyond the obvious to understand the root cause of problems and proposes several possible solutions.
+Resilience, Tolerance for Change/Ambiguity: can effectively cope with change, finding ways to advance work and projects
+
+
+
+
+WHO YOU ARE:
+
+
+
+
+Tenacious. You are determined to succeed, and you are motivated by the success of customers, colleagues, and the community.
+Curious. You are always learning and seeking ways to make things better.
+Conscientious. You keep your promises, taking your commitments to others seriously, and have strong integrity.
+Humble. You lead with humility and empathy, respecting and learning from the perspectives of others. You are a learn-it-all, not a know-it-all.
+Share our values: We champion the power of human connection. We’re united globally by our shared values of ownership, innovation, grit, humility, and passion for customer success.
+Make an impact: Working at the speed of social, we create value for our customers by delivering solutions that power relationships at scale. Our pace of work enables fast learning and fosters an environment where you can stretch yourself and make an impact.
+Learn and grow: We’re committed to growing the capabilities of our people. We are building a learning community where you can work with diverse individuals, explore new ways of thinking, and expand your capabilities. Our employees are teachers and learners who work out loud and share their knowledge to enhance each other’s growth.
+
+
+
+
+SUMMARY:
+
+﻿
+
+We are dedicated to building a diverse community, one where employees feel a sense of belonging and are valued for their contributions and the perspectives they bring. Our purpose is to champion the power of human connection and the heart of connection is inclusion. You belong here.
+
+
+
+
+Show more Show less",Full-time,,"Vancouver, British Columbia, Canada",
+2927598248,"Software Developer, Early Career",Google,Canada,2022-03-17,https://ca.linkedin.com/jobs/view/software-developer-early-career-at-google-2927598248?refId=uP46EWNyo8IGr51RdGF6HA%3D%3D&trackingId=R5uOQlygUmd9hTUbYiE4ag%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card,"This program is intended for candidates with 1-3 years of industry experience.
+
+Minimum qualifications:
+
+Bachelor's degree or equivalent practical experience
+1 year of experience in software development
+Experience programming with two or more of the following languages: C, C++, C#, Java, JavaScript, Go, and/or Python
+Experience working one or more of the following: web or mobile application development, Unix/Linux environments, distributed and parallel systems, machine learning, information retrieval, natural language processing, networking, software systems, and/or security software development
+
+
+Preferred qualifications:
+
+Experience developing accessible technologies
+Interest and ability to learn coding languages as needed
+Ability to speak and write in English fluently
+Ability to start in 2022
+
+
+About The Job
+
+Google's software developers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for software developers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day.
+
+As a software developer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our software developers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+Google aspires to be an organization that reflects the globally diverse audience that our products and technology serve. We believe that in addition to hiring the best talent, a diversity of perspectives, ideas, and cultures leads to the creation of better products and services.
+
+By applying to this position, you will be considered for all potential Software Developer opportunities. Roles may vary by location and will be discussed in more detail with your recruiter after completion of onsite interviews.
+
+Google is a software development company at heart. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on users around the world. At Google, software developers not only revolutionize search, they routinely work on scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, social to local, Google software developers are changing the world one technological achievement after another.
+
+Responsibilities
+
+
+Design, develop, test, deploy, maintain, and improve software.
+Manage individual project priorities, deadlines, and deliverables.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+Show more Show less",Full-time,Entry level,"Waterloo, Ontario, Canada",Information Technology and Engineering
+2991507042,Senior Data Engineer,Insight Global,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/senior-data-engineer-at-insight-global-2991507042?refId=Du26fRMwRVlzdlGShWTIVA%3D%3D&trackingId=AZwaJfryGlyOvZtIkgwKvQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card,"Desired Skills and Experience *
+- 3+ years of experience managing a team of Data Engineers
+- GCP or AWS Certified
+- Experience and knowledge in delivering achievable roadmaps through design and implementation
+- Experience with ETL tools/ETL flows with complex Transformations/Routines using Python, PySpark or Java.
+- Strong analytical skills with the ability to collect, analyze, design and disseminate significant amounts of information
+
+Plusses
+- Experience working in an agile environment
+- Experience working at a start-up
+
+Day-to-Day *
+Insight Global is looking for a Sr Manager, Data Ops and Engineering to join a large media client downtown Toronto. The qualified candidate will be responsible for leading a group of Data Engineers on the Data Science & Infrastructure team. This team is responsible for the management and optimization of BI systems used to analyze customer behaviour, automate business insight processes, target marketing and provide insight to drive optimal business decisions. The candidate will own the Data Engineering and ops roadmap, will build and manage data pipeline and will assist in extracting, loading, transforming, cleaning and validating data.
+
+Show more Show less",Full-time,,"Greater Toronto Area, Canada",
+2991388296,Data Engineer,Samsung Electronics,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/data-engineer-at-samsung-electronics-2991388296?refId=Du26fRMwRVlzdlGShWTIVA%3D%3D&trackingId=6M1ZIiSSKLtNSECY%2Fo4CSw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card,"Position Summary
+
+Do you believe in the power of technology to help shape a brighter future and a stronger global community? Are you inspired by the possibilities? Are innovation, camaraderie, and the pursuit of excellence part of your innate drive? Then you've got what it takes to succeed at Samsung.
+
+If you want to work for one of the most recognized brands in the world and one of the Top 100 Employers in Canada, then please keep reading!
+
+What We Offer
+
+Hybrid work (currently 100% remote)
+Competitive Salary
+RRSP Matching
+Employer Paid Flexible Health Coverage (from day one)
+Employee Purchase Program – discounts!
+Professional Development Opportunities
+Free onsite gym, showers and bike storage room
+Employee Referral Program – we want great talent like you!
+
+Role And Responsibilities
+
+Design and develop scalable data stores and frameworks with sub-second query latency on highly multi-dimensional data.
+Engineering solutions to aggregate and automate large scale data flows from varying sources
+Build real time streaming pipelines that deliver data with measurable quality under the SLA
+Ability to effectively communicate ideas to peers and distributed teams, delivering products with top notch quality in a fast-paced environment
+Contributing towards building a system with a test-driven development / agile approach
+Collaborate with other team members in breaking down tasks and implementation of the initiatives all the way to release.
+Works on complex issues where analyzing situations or data requires an in-depth evaluation of variables. Exercises judgement in selecting methods, techniques and evaluation criteria to obtain results.
+Champion best practices for high availability, scalability and reliability of data processing components
+
+Skills And Qualifications
+
+Degree in Computer Science, Statistics, Mathematics, Computer Engineering, Electrical Engineering or similar formal education;
+Experience with large-scale distributed systems as pertains to data storage and computing.
+Extensive experience with Amazon AWS technologies S3, EMR, Redshift, Athena, Lambda, Kinesis or similar cloud offerings.
+Strong development skills in Python
+Advanced disciplinary knowledge in data technologies like Airflow, Spark, SQL
+Experience with Full Stack development and building services on the data stack
+Demonstrated strength in data modeling, ETL development, and data warehousing
+Good knowledge of Tableau, capable of preparing data source
+Proven 3+ years of experience in applying required skills in advanced and meaningful set of projects
+
+Bonus
+
+AWS certification
+Experience with DevOps work, e.g. building micro services using Kubernetes, Docker, TFE
+Experience in Data Analytics, and Data Visualization
+Knowledge of programming and/or scripting languages (Java, bash, Node JS etc.)
+Knowledge of various databases (SQL/NoSQL)
+Experience in Data Analytics and Data Visualization
+Knowledge of machine learning and deep learning
+Hands-on understanding of scalability and high availability systems
+Knowledge of Azure and Google data cloud solution
+Experience in mobile services for enterprise market and related services
+
+Samsung is an equal employment opportunity employer. We thank you for your interest in working for Samsung. Only candidates selected for an interview will be contacted.
+
+Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here .
+Show more Show less",Full-time,Not Applicable,Greater Vancouver Metropolitan Area,Information Technology
+2991557983,Data Engineer,VDart,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/data-engineer-at-vdart-2991557983?refId=Du26fRMwRVlzdlGShWTIVA%3D%3D&trackingId=nCHA7St0%2Bbb6U2PizFm2Cg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card,"• Crafting, building and running the data driven applications which enable innovative, customer centric digital experiences
+• Expertise on GCP, Big Query, Airflow, Dataflow, Composer and Ni-Fi to provide a modern, easy to use data pipeline.
+• Working in cross-discipline agile team who helps each other solve problems across all functions
+• Building a data pipeline to transfer the data from our enterprise data lake for enabling data analytics and AI use cases.
+
+Services
+• Design, develop, test, deploy, maintain and improve the analytics pipeline
+• Assist in evaluating technology choices and rapidly test solutions
+• Assist the outcome teams in understanding how to best measure their web properties
+• Collaborate closely with multiple team in an agile environment
+
+Must have
+• A passion for data and analytics
+• Experience & proficiency in SQL and at least one other modern programming language (Python, Java, etc)
+• Interest and ability to learn new languages & technologies as needed
+• Familiar with the execution sequence of ETL Flows
+• Experience with Datafusion, Big Query, Dataflow, Composer/Airflow and Ni-Fi
+• Experience in Python & Spark
+• Basic understanding of data warehouse, data lake, OLAP and OLTP applications
+• GCP Professional Data Engineering certification
+• Google Cloud Dataflow and Google BigQuery experience
+• DevOps practices and tools experience
+• Orchestration and job scheduling platforms experience
+
+Great-to-haves
+• Experience with other Big Data related tools and technologies (AWZ, Azure, Hadoop)
+• Experience building data-as-a-product assets such as Customer Journey Tables, Advanced Reusable Reporting Queries, Symantec Layers Attributes
+• Working knowledge of a telecommunication service provider’s lines of business
+• Experience with connectors to data visualization tools such as Data Studio, Tableau, Domo
+
+Show more Show less",Full-time,,"Toronto, Ontario, Canada",
+2998034079,Data Engineer,CGI,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/data-engineer-at-cgi-2998034079?refId=Du26fRMwRVlzdlGShWTIVA%3D%3D&trackingId=SPk4wXOMpKAzO4dC0xh60A%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card,"Data Engineer
+
+
+
+
+Position Description
+
+We are Canada's largest independent information technology services firm, and after 45 years, we're still growing! Join Canada's largest IT Company as a ‘Developer/Sr. Developer’, in our Banking Services Division in Toronto.
+
+
+
+
+Candidates must have strong collaboration skills to work with cross-functional teams and stakeholders to ensure requirements are translated into specific solutions.
+
+
+
+
+
+
+
+Your future duties and responsibilities
+
+
+
+
+
+
+
+
+
+
+Required qualifications to be successful in this role
+
+1. Expertise in PySpark, Python, Spark, Airflow skilled
+
+2. Hands-on development experience, with a willingness to troubleshoot and solve complex problems
+
+3. Excellent understanding of database modelling
+
+4. A good understanding of managing batch operations
+
+5. Regression Testing and troubleshooting experience.
+
+6. Excellent communication and stakeholder management skills
+
+
+
+
+
+
+
+Build your career with us.
+
+
+
+
+It is an extraordinary time to be in business. As digital transformation continues to accelerate, CGI is at the center of this change—supporting our clients’ digital journeys and offering our professionals exciting career opportunities.
+
+
+
+
+At CGI, our success comes from the talent and commitment of our professionals. As one team, we share the challenges and rewards that come from growing our company, which reinforces our culture of ownership. All of our professionals benefit from the value we collectively create.
+
+
+
+
+Be part of building one of the largest independent technology and business services firms in the world.
+
+
+
+
+Learn more about CGI at www.cgi.com.
+
+
+
+
+No unsolicited agency referrals please.
+
+
+
+
+CGI is an equal opportunity employer. In addition, CGI is committed to providing accommodations for people with disabilities in accordance with provincial legislation. Please let us know if you require a reasonable accommodation due to a disability during any aspect of the recruitment process and we will work with you to address your needs.
+
+Show more Show less",Full-time,Mid-Senior level,"Toronto, Ontario, Canada",Information Technology
+2991575171,Data Engineer,Amazon,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/data-engineer-at-amazon-2991575171?refId=Du26fRMwRVlzdlGShWTIVA%3D%3D&trackingId=Syqo%2BAxFGy5%2BUAX5IF4%2F4A%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card,"Job Summary
+
+DESCRIPTION
+
+The AWS Kumo team provides technology and trusted expertise that intelligently anticipate and resolve AWS customer needs, helping them adopt, optimize, and operate at scale. Kumo’s products, used by AWS customers and the Support teams that help them, are vital to ensuring exceptional customer experiences on AWS. Our team owns customer facing applications like Trusted Advisor, Personal Health Dashboard, AWS Forums, and Support Center and internal tooling such as Case Management, Troubleshooting, and Customer Event Management. We are a highly innovative global organization revolutionizing the way customers engage and seek help from AWS. Support provides a strategic advantage for customers adopting AWS and drives direct revenue to the business.
+
+We are looking for an experienced, self-driven, analytical, and strategic Sr. Data Engineer. In this role, you will work across a large and complex data lake/warehouse environment. You are passionate about working with disparate datasets in order to bring data together to answer business questions. You should have deep expertise in the creation and management of datasets and the proven ability to translate the data into meaningful insights through collaboration with product managers, software development engineers, business intelligence engineers, operation managers and leaders. In this role, you will have ownership of end-to-end development of data engineering solutions to complex questions and you’ll play an integral role in strategic decision-making.
+
+In this role, you will have the opportunity to display and develop your skills in the following areas:
+
+Interface with PMs, business customers, and software developers to understand requirements and implement solutions
+Design, develop, and operate highly-scalable, high-performance, low-cost, and accurate data pipelines in distributed data processing platforms with AWS technologies providing ad hoc access to large datasets and computing power
+Explore and learn the latest AWS big data technologies, evaluate and make decisions around the use of new or existing software products to design the data architecture
+Recognize and adopt best practices in data processing, reporting, and analysis: data integrity, test design, analysis, validation, and documentation
+
+
+Basic Qualifications
+
+Bachelor’s/Masters's degree in Computer Science or related technical field, or equivalent work experience.
+4+ years of work experience with ETL, Data Modeling, and Data Architecture.
+4+ years of experience with SQL and large data sets, data modeling, ETL development, and data warehousing, or similar skills.
+2+ Experience writing ETL scripts using Python, Scala or other languages.
+2+ year experience with AWS technologies stack including Redshift, RDS, S3, EMR or similar solutions build around Hive/Spark etc.
+
+Preferred Qualifications
+
+Excellent in ETL optimization, designing, coding, and tuning big data processes using Apache Spark or similar technologies.
+Experience operating very large data warehouses or data lakes.
+Experience with building data pipelines and applications to stream and process datasets at low latencies.
+Demonstrate efficiency in handling data - tracking data lineage, ensuring data quality, and improving discoverability of data.
+Knowledge of distributed systems and data architecture (lambda)- design and implement batch and stream data processing pipelines, knows how to optimize the distribution, partitioning, and MPP of high-level data structures.
+Experience with full software development life cycle, including coding standards, code reviews, source control management, build processes, and testing.
+Meets/exceeds Amazon’s leadership principles requirements for this role
+Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.
+
+
+Company - Amazon Dev Centre Canada ULC
+
+Job ID: A1985856
+Show more Show less",Full-time,Not Applicable,"Vancouver, British Columbia, Canada","Strategy/Planning, Analyst, and Information Technology"
+2998007882,Cloud Engineer,CORE Resources,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/cloud-engineer-at-core-resources-2998007882?refId=3ThkGTojlXgLarmo8MQOzQ%3D%3D&trackingId=RHAzudyDKpOFFvdk8IgZcQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card,"A leading Technology organization is looking to add several Cloud Engineers to their organization. The successful candidates will bring at least 5 years of Cloud & Infrastructure experience and have strong experience in scripting (Bash, Powershell, Python) as well as Configuration Management tools such as Ansible & Terraform.
+
+
+
+
+Day to Day:
+
+• Deploying, configuring, monitoring, and troubleshooting in a high availability production environment.
+
+• Monitoring data-flow through multiple data-processing environments.
+
+• Provisioning and configuring new servers and systems in hosted, AWS/GCP cloud environments.
+
+• Modifying database and system configurations to support changes in data processing operations.
+
+
+
+
+Must Haves:
+
+• 5+ years of experience with building, deploying and scaling out SaaS/Cloud applications on Cloud Environments
+
+• Strong scripting skills – Bash Shell, PowerShell, Python.
+
+• Experience designing and implementing system automation for monitoring and deployment purposes.
+
+• Experience with maintaining applications in a Linux and Windows environment.
+
+• Experience with continuous integration using Jenkins, log collection, and analysis, version control systems like GitHub, Gitlab or SVN.
+
+• Experience with configuration management tools (e.g. Terraform, Ansible, Chef, Octopus Deploy)
+
+Show more Show less",Full-time,,"Greater Toronto Area, Canada",
+2990183293,Jnr. Cloud Engineer,State Street,Canada,2022-03-29,https://ca.linkedin.com/jobs/view/jnr-cloud-engineer-at-state-street-2990183293?refId=3ThkGTojlXgLarmo8MQOzQ%3D%3D&trackingId=Exg4JCTjfb3emqL6XquwSw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card,"Who We Are
+
+Although not a household name, State Street is one of the world’s largest and most important financial services institutions, providing round-the-clock services to the global investment community. We touch $39 trillion in assets every day and are the world’s third largest investment manager with over $3.5 trillion in assets under management. To do this we manage as much data as one of the internet giants on nearly as large a technical footprint.
+
+Recently we launched one of the industry’s largest technical transformation projects, in effect building a new bank from the ground up. This project isn’t greenfield in the way most banks claim projects are; we’ve started with a blank sheet of paper both operationally and technically. We’re using the same technologies that Silicon Valley giants are using: use of multiple public clouds, building our own private cloud to achieve even better performance, transforming our industry through distributed ledger technology and machine learning.
+
+This isn’t a traditional banking role. This is a chance to push your technical skills with people more comfortable in a technology firm than an investment bank, though solving real problems that affect anyone with any form of savings worldwide (not just trying to get people to click on ads).
+
+What You Will Do
+
+As a cloud engineer, you will deploy solutions in the public cloud (e.g., AWS) using configuration provisioning and management tools (e.g., AWS CloudFormation, Python APIs). You are required to design configuration templates that are used to provision infrastructure components (i.e., EC2, RDS, EMR, Lambda etc.) in a scalable manner. Once in production your role is key to ensuring that solutions are performant and operational SLAs are maintained.
+
+Develop applications (the ‘thread or if you prefer ‘duct tape’) that enable business and operational requirements using cloud provider services (‘fabric’ or ‘lego pieces’)
+Make concepts ‘real’ by telling enterprise architects how things really work versus what they may have seen in a vendor demo
+Avoid 2am production issues by building scalable and resilient (‘works the first time’) applications running globally
+Make things better by pointing out redundancies and manual steps best handled via your code
+
+Who You Are
+
+Smart and prefer to have other fork your git repos (versus forking some open source project to show commit counts)
+Experience using languages in vogue this decade (e.g., Python, Go, Groovy)
+Aware of how cloud-centric architectures and technical standards differ from something that runs on a Windows server
+Understand what are trade-offs in design and development (e.g., perennial issues around cache validation)
+Bachelor’s degree in Computer Science, Computer Engineering
+
+Bonus Points
+
+Graduate degree in Computer Engineering / Computer Science
+GPA higher than the average in relevant subjects and in the last two academic years (if not throughout)
+Prior experiences / internships with exposure to developing large scale applications
+Have written apps using AWS services (a bit more than EC2 is always welcome)
+
+About State Street
+
+Across the globe, institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability. We keep our clients at the heart of everything we do, and smart, engaged employees are essential to our continued success.
+
+Our promise to maintain an environment where every employee feels valued and able to meet their full potential infuses our company values. It’s also part of our commitment to inclusion, development and engagement, and corporate social responsibility. You’ll have tools to help balance your professional and personal life, paid volunteer days, and access to employee networks that help you stay connected to what matters to you. Join us.
+
+State Street is an Affirmative Action/ Equal Opportunity Employer/Vet/Disability.
+
+Job ID: R-696923
+Show more Show less",Full-time,Not Applicable,"Toronto, Ontario, Canada",Engineering and Information Technology
+2990182514,Jnr. Cloud Engineer,State Street,Canada,2022-03-29,https://ca.linkedin.com/jobs/view/jnr-cloud-engineer-at-state-street-2990182514?refId=3ThkGTojlXgLarmo8MQOzQ%3D%3D&trackingId=r0x0ttqTB6ali3z9uagSiA%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card,"Who We Are
+
+Although not a household name, State Street is one of the world’s largest and most important financial services institutions, providing round-the-clock services to the global investment community. We touch $39 trillion in assets every day and are the world’s third largest investment manager with over $3.5 trillion in assets under management. To do this we manage as much data as one of the internet giants on nearly as large a technical footprint.
+
+Recently we launched one of the industry’s largest technical transformation projects, in effect building a new bank from the ground up. This project isn’t greenfield in the way most banks claim projects are; we’ve started with a blank sheet of paper both operationally and technically. We’re using the same technologies that Silicon Valley giants are using: use of multiple public clouds, building our own private cloud to achieve even better performance, transforming our industry through distributed ledger technology and machine learning.
+
+This isn’t a traditional banking role. This is a chance to push your technical skills with people more comfortable in a technology firm than an investment bank, though solving real problems that affect anyone with any form of savings worldwide (not just trying to get people to click on ads).
+
+What You Will Do
+
+As a cloud engineer, you will deploy solutions in the public cloud (e.g., AWS) using configuration provisioning and management tools (e.g., AWS CloudFormation, Python APIs). You are required to design configuration templates that are used to provision infrastructure components (i.e., EC2, RDS, EMR, Lambda etc.) in a scalable manner. Once in production your role is key to ensuring that solutions are performant and operational SLAs are maintained.
+
+Develop applications (the ‘thread or if you prefer ‘duct tape’) that enable business and operational requirements using cloud provider services (‘fabric’ or ‘lego pieces’)
+Make concepts ‘real’ by telling enterprise architects how things really work versus what they may have seen in a vendor demo
+Avoid 2am production issues by building scalable and resilient (‘works the first time’) applications running globally
+Make things better by pointing out redundancies and manual steps best handled via your code
+
+Who You Are
+
+Smart and prefer to have other fork your git repos (versus forking some open source project to show commit counts)
+Experience using languages in vogue this decade (e.g., Python, Go, Groovy)
+Aware of how cloud-centric architectures and technical standards differ from something that runs on a Windows server
+Understand what are trade-offs in design and development (e.g., perennial issues around cache validation)
+Bachelor’s degree in Computer Science, Computer Engineering
+
+Bonus Points
+
+Graduate degree in Computer Engineering / Computer Science
+GPA higher than the average in relevant subjects and in the last two academic years (if not throughout)
+Prior experiences / internships with exposure to developing large scale applications
+Have written apps using AWS services (a bit more than EC2 is always welcome)
+
+About State Street
+
+Across the globe, institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability. We keep our clients at the heart of everything we do, and smart, engaged employees are essential to our continued success.
+
+Our promise to maintain an environment where every employee feels valued and able to meet their full potential infuses our company values. It’s also part of our commitment to inclusion, development and engagement, and corporate social responsibility. You’ll have tools to help balance your professional and personal life, paid volunteer days, and access to employee networks that help you stay connected to what matters to you. Join us.
+
+State Street is an Affirmative Action/ Equal Opportunity Employer/Vet/Disability.
+
+Job ID: R-696924
+Show more Show less",Full-time,Not Applicable,"Toronto, Ontario, Canada",Engineering and Information Technology
+2993103719,Cloud Infrastructure engineer,Bittensor,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/cloud-infrastructure-engineer-at-bittensor-2993103719?refId=3ThkGTojlXgLarmo8MQOzQ%3D%3D&trackingId=lcHP8tiIomWF5%2FN%2FByTc8A%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card,"Cloud Infrastructure Engineer
+
+We are seeking inspired engineers to join Bittensor team. You will join a close-knit team of creative problem solvers to join the team creating an open, decentralized, peer-to-peer network that functions as a market system for the development of artificial intelligence. Our purpose is not only to accelerate the development of AI by creating an environment optimally condusive to its evolution, but to democratize the global production and use of this valuable commodity.
+
+Duties and Responsibilities
+
+Research, design, develop, and test large scale distributed systems.
+Evaluate new tools and technologies for distributed environments as they continually evolve.
+Develop, maintain and extend applications responsible for distributed file systems, blockchains, and overall cloud infrastructure backend environments.
+Be involved in the global blockchain community, reviewing, implementing and integrating the latest techniques and improvements,
+Assist in writing and maintaining public documentation Ensure that all processes and infrastructure are internally documented as they are implemented
+
+Core Competencies
+
+Excellent technical abilities
+Excellent written and verbal communication
+Interest in current and emerging blockchain and cryptocurrency technologies
+Strong focus on and understanding of distributed and networked software security
+
+Requirements
+
+A bachelor's degree or equivalent in computer science, information systems, or engineering (or equivalent experience)
+Strong knowledge of algorithms and data structures (trees, depth-first-search, breadth-first-search, binary search, etc.)
+4+ years Python development Experience working with large codebases and microservices. Proficiency in one or more object-oriented languages
+Familiarity with basic cryptography Familiarity with P2P networks Demonstrated ability to write efficient and testable code Experience with one or more blockchain technologies is an asset.
+Preferred Extensive experience developing with Python frameworks Familiarity working with relational databases Experience with filesystem development and data bases is an asset.
+
+Values
+
+Accountability - we hold each other to the highest standards to ensure quality in ourselves and our products
+Teamwork – we support each other to succeed as a team; we are collaborative and help each other develop
+Fearless – we take calculated risks and we are not afraid to learn from setbacks and failures Respect - we treat every team member with respect, and welcome differing viewpoints. No mean-spirited, selfish, or condescending behavior allowed
+Integrity – we are honest and forthright about who we are; we admit our mistakes; we live our values
+Fun – we are serious about injecting humor, play, and joy into our daily work
+Show more Show less",Full-time,,Canada,
+2991340939,Junior Cloud Infrastructure Engineer,Neo Financial,Canada,2022-03-30,https://ca.linkedin.com/jobs/view/junior-cloud-infrastructure-engineer-at-neo-financial-2991340939?refId=3ThkGTojlXgLarmo8MQOzQ%3D%3D&trackingId=MTAeQSThfEq%2BeztkL%2FzZaA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card,"Overview
+
+At Neo, we’re reimagining everyday banking from the ground up and shaping the financial future for millions of people in Canada. We’re a tech company consistently pushing for the next best thing, which provides many opportunities to grow and learn personally and professionally. Ready to materialize your passion into a connected purpose? Come join us in a high-speed startup in a community of high-achieving dreamers and doers, set on innovating the best solutions.
+
+Neo Financial is looking for a full-time Junior Cloud Infrastructure Engineer (AWS) in Calgary, AB.
+
+As a Junior Cloud Infrastructure Engineer at Neo you’ll be collaborating with a team of dedicated people to build, maintain, and improve upon our cutting-edge cloud architecture. Successful candidates make continuous improvements through a “configuration as code” approach to infrastructure and systems.
+
+What You'll Be Doing
+
+Maintain the operability and scalability of network design and AWS networking infrastructure to optimize performance, cost, security and scalability
+Improve containerized infrastructure behind our cutting-edge GraphQL microservice architecture in AWS (using ECS, Fargate, and more)
+Employ serverless solutions to achieve massive scale and reliability without breaking the bank
+Maintain, monitor and secure a variety of data platforms, including PostgreSQL, MongoDB, Elasticsearch, or Redis - we believe in using the right tool for every job
+Develop tools and improve processes to make it easier for developers to ship code and work with our cloud resources
+Provide support on production incidents if they occur and provide leadership to help us learn and improve
+Develop tools and practices to detect and defend us from infrastructure-centric security attacks: bots, DDOS attacks, and other evolving threats
+Collaborate with stakeholders to ensure secure, reliable, and scalable cloud solutions are available to everyone
+
+Who We're Looking For
+
+Bachelor’s degree in computer science, engineering, mathematics or a related field or equivalent professional
+Understanding of creating and maintaining cloud infrastructure professionally with proven experience in deployment of resources and managing active applications on a cloud provider like AWS, Azure, Google Cloud, etc
+Comfortable with common development tools like Git and Github
+Knowledge in creating infrastructure with code, using Terraform, CloudFormation, CDK, Ansible, etc
+Familiarity with CI/CD standard methodologies, including building pipelines to automate how software moves from development to production
+Strong scripting skills with Bash or similar; comfortable working in a Unix-based terminal environment
+Strong collaboration and communication skills; experience working within development teams and with outside stakeholders
+Great problem-solving skills, and the ability to work and research independently to find the best way forward
+Knowledge of the current tech ecosystem, state of the art trends and announcements
+
+What Will Help You Succeed
+
+Be a high-achiever who wants to show you’re the best, or that you can learn and do anything.
+Bring a positive attitude and genuine desire to not just do a job but achieve excellence by being part of a team creating a product that is beloved by millions.
+Be a team player who wants to make friends and relationships, who brings others up when they’re struggling, and who earns trust.
+
+About Applying With Us
+
+At Neo, you’ll be working with industry-leading technology that changes the way we live and realize a better financial future. It’s a serious deal, but that doesn’t mean we don’t know a thing or two about having fun. Our entrepreneurial environment gets our adrenaline pumping and beats the regular 9-5 job. We’re in it together, always. Gain hands-on experience and be part of the future.
+
+Neo Financial is an equal opportunity employer. We are excited to meet with and hire the top talent out there. We appreciate your interest in working with us; however, only those applicants selected for interviews will be contacted. Successful candidates for this position will be required to undergo a security screening, including a criminal records check and may require a credit check.
+
+
+Show more Show less",Full-time,Entry level,"Calgary, Alberta, Canada",Information Technology
