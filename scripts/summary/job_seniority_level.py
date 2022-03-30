@@ -55,6 +55,7 @@ def job_seniority_data(cfg):
   print(df.head(100))
   db_connection = get_db_connection(cfg)
   dblist = db_connection.list_database_names()
+
   if "LinkedInJob" in dblist:
     mydb = db_connection["LinkedInJob"]
     db_cm = mydb["job_seniority_level"]
@@ -62,6 +63,7 @@ def job_seniority_data(cfg):
 
   results = df.toJSON().map(lambda j: json.loads(j)).collect()
   print(results)
+  db_cm.delete_many({})
   db_cm.insert_many(results)
   sc.stop()
   #mycol = mydb["Staging"]

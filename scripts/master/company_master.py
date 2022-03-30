@@ -42,6 +42,7 @@ def company_master_data(cfg):
   results = df.toJSON().map(lambda j: json.loads(j)).collect()
   print(results)
   db_cm.insert_many(results)
+  sc.stop()
   #mycol = mydb["Staging"]
   logging.info("The data is inserted into the database")
 

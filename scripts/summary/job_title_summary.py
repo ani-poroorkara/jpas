@@ -15,8 +15,8 @@ from pyspark.sql.functions import when,col
 from pyspark.sql import SQLContext
 
 from pyspark.sql.functions import *
-def job_seniority_data(cfg):
-  logging.info("Creating Database connection for seniority level summarization")
+def job_title_data(cfg):
+  logging.info("Creating Database connection for title summarization")
  #db_connection = get_db_connection(cfg)
  #dblist=db_connection.list_database_names()
   conf = pyspark.SparkConf().set("spark.jars.packages", "org.mongodb.spark:mongo-spark-connector_2.12:3.0.1").setMaster(
@@ -62,6 +62,7 @@ def job_seniority_data(cfg):
 
   results = df.toJSON().map(lambda j: json.loads(j)).collect()
   print(results)
+  db_cm.delete_many({})
   db_cm.insert_many(results)
   sc.stop()
   #mycol = mydb["Staging"]

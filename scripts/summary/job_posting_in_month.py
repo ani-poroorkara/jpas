@@ -15,7 +15,7 @@ from pyspark.sql.functions import when,col
 from pyspark.sql import SQLContext
 
 from pyspark.sql.functions import *
-def job_location_summary_data(cfg):
+def job_posting_in_month_data(cfg):
   logging.info("Creating Database connection for location summarization")
  #db_connection = get_db_connection(cfg)
  #dblist=db_connection.list_database_names()
@@ -42,7 +42,7 @@ def job_location_summary_data(cfg):
   # job_user_created
   from pyspark.sql.functions import lit, StringType
 
-  df =sqlC.sql("SELECT count(*) as job_count,job_place from data group by job_place")
+  df =sqlC.sql("SELECT count(*) as month_posting,date_trunc(job_date_posted, 'MM') as month,job_cmp_name from data group by job_cmp_name,date_trunc(job_date_posted, 'MM')")
   #df = df.withColumn('job_seniority_level', lit("Others").cast(StringType()))
   #df = df.withColumn('cmp_ceo_name', F.lit(None).cast(StringType()))
   # df = df.withColumn('cmp_head_office', F.lit(None).cast('string'))
@@ -57,7 +57,7 @@ def job_location_summary_data(cfg):
   dblist = db_connection.list_database_names()
   if "LinkedInJob" in dblist:
     mydb = db_connection["LinkedInJob"]
-    db_cm = mydb["job_location"]
+    db_cm = mydb["job_posting_in_month"]
   # data_json = json.loads(df.toJSON().collect())
 
   results = df.toJSON().map(lambda j: json.loads(j)).collect()

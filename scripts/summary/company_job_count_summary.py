@@ -13,10 +13,11 @@ from pyspark import SparkContext
 from pyspark.sql import SparkSession, functions as F
 from pyspark.sql.functions import when,col
 from pyspark.sql import SQLContext
+from pyspark.sql.functions import month
 
 from pyspark.sql.functions import *
-def job_location_summary_data(cfg):
-  logging.info("Creating Database connection for location summarization")
+def company_job_count_data(cfg):
+  logging.info("Creating Database connection for seniority level summarization")
  #db_connection = get_db_connection(cfg)
  #dblist=db_connection.list_database_names()
   conf = pyspark.SparkConf().set("spark.jars.packages", "org.mongodb.spark:mongo-spark-connector_2.12:3.0.1").setMaster(
@@ -25,8 +26,11 @@ def job_location_summary_data(cfg):
   sqlC = SQLContext(sc)
   mongo_ip="mongodb://localhost:27017/LinkedInJob."
   print(mongo_ip)
-  master=sqlC.read.format("com.mongodb.spark.sql.DefaultSource").option("uri", mongo_ip+"job_master").load()
-  master.createOrReplaceTempView("data")
+  master_company=sqlC.read.format("com.mongodb.spark.sql.DefaultSource").option("uri", mongo_ip+"company_master").load()
+  master_job = sqlC.read.format("com.mongodb.spark.sql.DefaultSource").option("uri", mongo_ip + "job_master").load()
+  master_company.createOrReplaceTempView("company_master")
+  master_job.createOrReplaceTempView("job_master")
+
   # job_id(pk)
   # cmp_id
   # job_post_id
@@ -42,8 +46,7 @@ def job_location_summary_data(cfg):
   # job_user_created
   from pyspark.sql.functions import lit, StringType
 
-  df =sqlC.sql("SELECT count(*) as job_count,job_place from data group by job_place")
-  #df = df.withColumn('job_seniority_level', lit("Others").cast(StringType()))
+  df =sqlC.sql("SELECT count(*) as job_count,job_cmp_name from job_master group by job_cmp_name")
   #df = df.withColumn('cmp_ceo_name', F.lit(None).cast(StringType()))
   # df = df.withColumn('cmp_head_office', F.lit(None).cast('string'))
   # df = df.withColumn('cmp_current_openings', F.lit(None).cast('string'))
@@ -57,7 +60,7 @@ def job_location_summary_data(cfg):
   dblist = db_connection.list_database_names()
   if "LinkedInJob" in dblist:
     mydb = db_connection["LinkedInJob"]
-    db_cm = mydb["job_location"]
+    db_cm = mydb["company_job_count_summary"]
   # data_json = json.loads(df.toJSON().collect())
 
   results = df.toJSON().map(lambda j: json.loads(j)).collect()
