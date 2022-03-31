@@ -19,7 +19,7 @@ logging.basicConfig(level = logging.INFO)
 
 # Scraper properties
 scraper = LinkedinScraper(
-    chrome_executable_path="chromedriver_win32/chromedriver.exe",
+    chrome_executable_path="backend/chromedriver_win32/chromedriver.exe",
     chrome_options=None,  
     headless=True, 
     max_workers=1, 
@@ -32,7 +32,7 @@ x = str(x).replace(" ", "_")
 x = str(x).replace("-", "")
 x = str(x).replace(":", "")
 x = str(x).replace(".", "")
-f = open("data/data_"+x+".csv", "a", encoding="utf-8")
+f = open("backend/data/data_"+x+".csv", "w", newline='', encoding="utf-8")
 writer = csv.writer(f)
 row = ["job_id","title","company","location","date","link","description","employment_type","seniority_level","place","job_function"]
 writer.writerow(row)
@@ -65,7 +65,7 @@ while ( c < len(jobList)):
             options=QueryOptions(
                 locations=['Canada'],
                 optimize=True,
-                limit=5,
+                limit=200,
                 filters=QueryFilters(  # Filter by companies
                     relevance=RelevanceFilters.RECENT,
                     time=TimeFilters.MONTH,
