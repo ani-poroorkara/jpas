@@ -57,8 +57,8 @@ def job_master_data(cfg):
   df = df.withColumn('job_type', f.expr("coalesce(job_type, 'Others')"))
   df = df.withColumn('job_function', f.expr("coalesce(job_seniority_level, 'Others')"))
   from pyspark.sql.functions import datediff, col
-  #df=df.withColumn("current_date", f.current_date())
-  df=df.withColumn('current_date',lit("12-05-1995").cast(StringType()))
+  df=df.withColumn("current_date", f.current_date())
+  #df=df.withColumn('current_date',lit("12-05-1995").cast(StringType()))
   df=df.withColumn("job_total_days", datediff(f.current_date(), col("job_date_posted")))
   df = df.withColumn('job_active_flag', when(col('job_total_days') >= 90, 'N').otherwise('Y'))
   df_count = df.groupBy('job_post_id').count().select('job_post_id', f.col('count').alias('count_records'))
@@ -72,26 +72,35 @@ def job_master_data(cfg):
   df_insert=df_insert.drop(df_insert.job_transaction_type)
   df_insert=df_insert.drop(df_insert.count_records)
   df_insert_count=df_insert.count()
+  df_update_count=df_update.count()
+  print("Count Update", df_update_count)
   df_update=df_update.drop(df_update.job_transaction_type)
   df_update=df_update.drop(df_update.count_records)
+  df_update=df_update.dropDuplicates(["job_post_id"])
   print("Hello",df_insert.head(100))
   print("Bhanu",df_update.head(100))
   db_connection = get_db_connection(cfg)
   dblist = db_connection.list_database_names()
-
+  print("Count Update", df_update_count)
   if "LinkedInJob" in dblist:
     mydb = db_connection["LinkedInJob"]
     db_cm = mydb["job_master"]
+    db_cm.delete_many({})
   # data_json = json.loads(df.toJSON().collect())
   if(df_insert_count>0):
     results = df_insert.toJSON().map(lambda j: json.loads(j)).collect()
     print(results)
     db_cm.insert_many(results)
-    sc.close()
+  if(df_update_count>0):
+    results_update = df_update.toJSON().map(lambda j: json.loads(j)).collect()
+    print("New Records",results_update)
+    db_cm.insert_many(results_update)
 
-  df_update.write.format("com.mongodb.spark.sql.DefaultSource").mode("append").option("spark.mongodb.output.uri", "mongodb://localhost:27017/LinkedInJob.job_master.job_post_id").option("replaceDocument", "false").save()
+  #results=df_update.toJSON().map(lambda j: json.loads(j)).collect()
+  #db_cm.update_many(results,)
+
+
   sc.stop()
-
   #mycol = mydb["Staging"]
   logging.info("The data is inserted into the database")
 

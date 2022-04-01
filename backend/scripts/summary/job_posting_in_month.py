@@ -42,7 +42,7 @@ def job_posting_in_month_data(cfg):
   # job_user_created
   from pyspark.sql.functions import lit, StringType
 
-  df =sqlC.sql("SELECT count(*) as month_posting,date_trunc(job_date_posted, 'MM') as month,job_cmp_name from data group by job_cmp_name,date_trunc(job_date_posted, 'MM')")
+  df =sqlC.sql("SELECT count(*) as month_posting,Month(to_date(job_date_posted)) as month,job_cmp_name from data group by job_cmp_name,Month(to_date(job_date_posted))")
   #df = df.withColumn('job_seniority_level', lit("Others").cast(StringType()))
   #df = df.withColumn('cmp_ceo_name', F.lit(None).cast(StringType()))
   # df = df.withColumn('cmp_head_office', F.lit(None).cast('string'))
