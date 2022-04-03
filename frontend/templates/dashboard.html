@@ -23,10 +23,22 @@
     <main class="container">
 
         <section>
-            <embed type="image/svg+xml" src={{job_count_pie|safe}} style='max-width:50vw'/>
+            <embed type="image/svg+xml" src={{company_jobs|safe}} style='max-width:50vw'/>
         </section>
         <section>
-            <embed type="image/svg+xml" src={{job_count_pie|safe}} style='max-width:1000px'/>
+          <embed type="image/svg+xml" src={{job_type|safe}} style='max-width:50vw'/>
+        </section>
+        
+        <section>
+          <embed type="image/svg+xml" src={{job_seniority_level|safe}} style='max-width:50vw'/>
+        </section>
+
+        <section>
+          <embed type="image/svg+xml" src={{job_title|safe}} style='max-width:50vw'/>
+        </section>
+        
+        <section>
+          <embed type="image/svg+xml" src={{job_location|safe}} style='max-width:50vw'/>
         </section>
 
     </main>
