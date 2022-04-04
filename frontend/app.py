@@ -3,9 +3,11 @@ from flask_pymongo import PyMongo
 import pygal
 from pygal.style import BlueStyle
 
+from config import DB_PATH
+
 app = flask.Flask(__name__)
 
-mongodb_client = PyMongo(app, uri="mongodb://localhost:27017/JPAS")
+mongodb_client = PyMongo(app, uri=DB_PATH)
 db = mongodb_client.db
 
 @app.route("/")
