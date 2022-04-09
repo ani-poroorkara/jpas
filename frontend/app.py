@@ -13,6 +13,12 @@ db = mongodb_client.db
 @app.route("/")
 def home():
 
+    # total companies
+    company_count = get_total_companies()
+
+    # total companies
+    jobs_count = get_total_jobs()
+
     # Line
     # company_job_count_summary
     graph_company_jobs = get_company_jobs()
@@ -37,6 +43,8 @@ def home():
 
     return flask.render_template(   
                                     "dashboard.html",
+                                    company_count = company_count,
+                                    jobs_count = jobs_count,
                                     company_jobs = graph_company_jobs,
                                     job_type = graph_job_type,
                                     job_seniority_level = graph_job_seniority_level,
@@ -44,6 +52,14 @@ def home():
                                     # jobtypexsen = jobtypexsen,
                                     job_location = job_location
                                 )
+# Total companies
+def get_total_companies():
+    data = db.company_master.find({},{'_id': 0}).count()
+    return int(data)
+
+def get_total_jobs():
+    data = db.job_master.find({},{'_id': 0}).count()
+    return int(data)
 
 # Company jobs
 def get_company_jobs():
