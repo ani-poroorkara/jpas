@@ -13,12 +13,15 @@ db = mongodb_client.db
 
 @app.route("/")
 def home():
-    #
-    # # total companies
+    
+    # total companies
     company_count = get_total_companies()
-    #
-    # # total companies
+    
+    # total companies
     jobs_count = get_total_jobs()
+
+    # monthly counts
+    jobs_in_month = get_total_jobs_month()
 
     # Line
     # company_job_count_summary
@@ -50,10 +53,12 @@ def home():
                                     job_type = graph_job_type,
                                     job_seniority_level = graph_job_seniority_level,
                                     job_title = graph_job_title,
+                                    jobs_in_month = jobs_in_month,
                                     # jobtypexsen = jobtypexsen,
                                     job_location = job_location
                                 )
-#Total companies
+# Total count
+
 def get_total_companies():
     data = db.company_master.count_documents({})
     #print(data)
@@ -61,6 +66,11 @@ def get_total_companies():
 
 def get_total_jobs():
     data = db.job_master.count_documents({})
+    return int(data)
+
+def get_total_jobs_month():
+    data = db.job_posting_in_month.count_documents({ "month" : "4" })
+    print(data)
     return int(data)
 
 # Company jobs
